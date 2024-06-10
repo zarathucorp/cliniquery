@@ -51,10 +51,16 @@ class QuestionBaseList(SQLModel):
 
 
 class Question(QuestionBase, SQLModel, table=True):
-    __tablename__ = "questions_new"
+    __tablename__ = "questions"
     id: Optional[int] = Field(default=None, primary_key=True)
     source: Optional[str] = Field(
         description="A field to store the origin of the question."
+    )
+    is_relevant: Optional[bool] = Field(
+        description="A field to store the relevancy of the question."
+    )
+    labeler: Optional[str] = Field(
+        description="A field to store the name of the person who labeled the question."
     )
 
 
