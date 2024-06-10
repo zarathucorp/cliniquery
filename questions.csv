@@ -1,0 +1,674 @@
+"symptom","category","subcategory","question","question_korean","id","source","is_relevant","labeler"
+"양쪽 원발성 무릎관절증","Details of the complaint","associated symptoms","Have you noticed any swelling or stiffness in your knees?","무릎에 부종이나 뻣뻣함을 느꼈던 적이 있습니까?",1,"gpt-4-turbo",NA,NA
+"양쪽 원발성 무릎관절증","Details of the complaint","severity","On a scale from 1 to 10, how would you rate your knee pain?","1에서 10까지의 척도로 무릎 통증을 어떻게 평가하시겠습니까?",2,"gpt-4-turbo",NA,NA
+"양쪽 원발성 무릎관절증","Details of the complaint","timing","Is your knee pain worse in the morning, or does it increase throughout the day?","무릎 통증은 아침에 더 심한가요, 아니면 하루 종일 증가하나요?",3,"gpt-4-turbo",NA,NA
+"양쪽 원발성 무릎관절증","Details of the complaint","aggravating factors","Does activity or rest worsen your knee pain?","활동이나 휴식이 무릎 통증을 악화시키나요?",4,"gpt-4-turbo",NA,NA
+"양쪽 원발성 무릎관절증","Review of systems","mobility","Has your ability to walk or climb stairs changed recently?","최근에 걷거나 계단을 오르는 능력에 변화가 있었습니까?",5,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490","Details of the complaint","timing","Have you experienced any recent changes in your cough?","최근에 기침 패턴에 변화가 있었습니까?",6,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490","Details of the complaint","severity","How severe is the pain in your chest, if any?","가슴 통증이 있다면, 그 정도는 어느 정도입니까?",7,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490","Associated symptoms","respiratory","Have you noticed any shortness of breath?","호흡곤란을 느낀 적이 있습니까?",8,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490","Associated symptoms","weight loss","Have you experienced any unintentional weight loss recently?","최근에 의도하지 않은 체중 감소가 있었습니까?",9,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490","Review of systems","general health","Have you felt unusually tired or fatigued?","평소보다 피로하거나 지친 느낌이 있었습니까?",10,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490","Review of systems","fever","Have you had any episodes of fever?","열이 나는 증상이 있었습니까?",11,"gpt-4-turbo",NA,NA
+"양안 정상안압 녹내장","Details of the complaint","vision quality","Have you experienced any gradual loss of peripheral vision?","시간이 지남에 따라 주변 시야 상실을 경험하셨습니까?",12,"gpt-4-turbo",NA,NA
+"양안 정상안압 녹내장","Details of the complaint","vision changes","Have you noticed any blurred or hazy vision?","시야가 흐리거나 안개가 낀 것처럼 느껴진 적이 있습니까?",13,"gpt-4-turbo",NA,NA
+"양안 정상안압 녹내장","Review of systems","eye pain","Do you experience frequent headaches or pain around your eyes?","두통이 자주 있거나 눈 주위에 통증을 느끼신 적이 있습니까?",14,"gpt-4-turbo",NA,NA
+"양안 정상안압 녹내장","Review of systems","night vision","Have you faced difficulties seeing in low light or at night?","저조도나 야간에 시력이 약해지는 것을 느끼셨습니까?",15,"gpt-4-turbo",NA,NA
+"양안 정상안압 녹내장","Review of systems","eye strain","Do you experience any strain or tiredness in your eyes after reading or using screens?","독서나 화면 사용 후 눈의 피로나 긴장을 느낀 적이 있습니까?",16,"gpt-4-turbo",NA,NA
+"난소의 양성 신생물, 상세불명","Details of the complaint","location","Do you feel pain or discomfort in any specific area of your abdomen or pelvis?","복부 또는 골반의 특정 부위에서 통증이나 불편함을 느끼십니까?",17,"gpt-4-turbo",NA,NA
+"난소의 양성 신생물, 상세불명","Details of the complaint","severity","How would you rate the severity of your abdominal or pelvic discomfort on a scale from 1 to 10?","1에서 10까지의 척도에서 복부 또는 골반의 불편함 정도를 어떻게 평가하시겠습니까?",18,"gpt-4-turbo",NA,NA
+"난소의 양성 신생물, 상세불명","Details of the complaint","timing","Is the discomfort constant, or does it come and go?","불편함이 지속되거나 왔다 갔다 합니까?",19,"gpt-4-turbo",NA,NA
+"난소의 양성 신생물, 상세불명","Details of the complaint","aggravating factors","Are there any specific activities or factors that increase your pain or discomfort?","통증이나 불편함을 증가시키는 특정 활동이나 요인이 있습니까?",20,"gpt-4-turbo",NA,NA
+"난소의 양성 신생물, 상세불명","Details of the complaint","associated symptoms","Have you experienced any unusual vaginal bleeding or discharge?","평소와 다른 질 출혈이나 분비물이 있었습니까?",21,"gpt-4-turbo",NA,NA
+"난소의 양성 신생물, 상세불명","Review of systems","gastrointestinal","Have you noticed any changes in your bowel habits or urinary frequency?","배변 습관이나 소변 빈도에 변화가 있었습니까?",22,"gpt-4-turbo",NA,NA
+"난소의 양성 신생물, 상세불명","Review of systems","weight changes","Have you experienced any unexpected weight gain or loss?","예상치 못한 체중 증가나 감소가 있었습니까?",23,"gpt-4-turbo",NA,NA
+"난소의 양성 신생물, 상세불명","Review of systems","general health","Have you felt unusually fatigued or had difficulty with daily activities?","평소보다 피로감을 느끼거나 일상 활동을 하는데 어려움이 있었습니까?",24,"gpt-4-turbo",NA,NA
+"상세불명 원인의 앨러지성 접촉피부염 L239, 앨러지성 두드러기 L500","Details of the complaint","location","Where exactly on your body do these skin reactions occur?","피부 반응이 몸의 정확히 어느 부분에서 발생합니까?",25,"gpt-4-turbo",NA,NA
+"상세불명 원인의 앨러지성 접촉피부염 L239, 앨러지성 두드러기 L500","Details of the complaint","severity","How severe are your symptoms on a scale of 1 to 10?","증상의 심각성을 1에서 10 사이의 척도로 어떻게 평가하십니까?",26,"gpt-4-turbo",NA,NA
+"상세불명 원인의 앨러지성 접촉피부염 L239, 앨러지성 두드러기 L500","Details of the complaint","aggravating factors","Have you noticed anything that worsens your skin condition?","피부 상태를 악화시키는 것이 있었다면 무엇입니까?",27,"gpt-4-turbo",NA,NA
+"상세불명 원인의 앨러지성 접촉피부염 L239, 앨러지성 두드러기 L500","Details of the complaint","timing","When do you typically notice the onset of symptoms?","증상이 일반적으로 언제 나타납니까?",28,"gpt-4-turbo",NA,NA
+"상세불명 원인의 앨러지성 접촉피부염 L239, 앨러지성 두드러기 L500","Details of the complaint","associated symptoms","Do you experience itching or burning along with the rashes?","발진과 함께 가려움증이나 화끈거림을 경험하십니까?",29,"gpt-4-turbo",NA,NA
+"상세불명 원인의 앨러지성 접촉피부염 L239, 앨러지성 두드러기 L500","Review of systems","skin","Have you noticed any changes in the color or texture of your skin?","피부의 색깔이나 질감에 변화가 있었습니까?",30,"gpt-4-turbo",NA,NA
+"상세불명 원인의 앨러지성 접촉피부염 L239, 앨러지성 두드러기 L500","Review of systems","additional skin symptoms","Apart from the rashes and hives, have you had any other skin issues, like peeling or dryness?","발진과 두드러기 외에도 벗겨짐이나 건조 같은 다른 피부 문제가 있었습니까?",31,"gpt-4-turbo",NA,NA
+"만성 단순태선","Details of the complaint","location","Where is the itching most severe?","가려움증이 가장 심한 부위는 어디입니까?",32,"gpt-4-turbo",NA,NA
+"만성 단순태선","Details of the complaint","aggravating factors","Are there specific factors that increase your itching?","가려움증을 증가시키는 특정 요인이 있습니까?",33,"gpt-4-turbo",NA,NA
+"만성 단순태선","Details of the complaint","associated symptoms","Have you noticed any changes in the color or texture of your skin where it itches?","가려운 부위의 피부 색상이나 질감에 변화가 있었습니까?",34,"gpt-4-turbo",NA,NA
+"만성 단순태선","Review of systems","skin","Do you have any secondary skin lesions, like lichenification or pigmentation?","단단해지거나 착색과 같은 이차 피부 병변이 있습니까?",35,"gpt-4-turbo",NA,NA
+"만성 단순태선","Allergies","environmental","Are you aware of any environmental allergies that might be contributing to your condition?","상태에 기여할 수 있는 환경 알레르기가 있습니까?",36,"gpt-4-turbo",NA,NA
+"구불결장의 악성 신생물 C18.7","Details of the complaint","timing","When did you first notice symptoms related to your condition?","당신의 상태와 관련된 증상을 처음으로 언제 알아차렸습니까?",37,"gpt-4-turbo",NA,NA
+"구불결장의 악성 신생물 C18.7","Details of the complaint","severity","How severe are your symptoms on a scale of 1 to 10?","당신의 증상이 1에서 10까지의 척도에서 얼마나 심합니까?",38,"gpt-4-turbo",NA,NA
+"구불결장의 악성 신생물 C18.7","Review of systems","digestive","Have you experienced any changes in bowel habits or consistency of stool?","배변 습관이나 변의 일관성에 변화가 있었습니까?",39,"gpt-4-turbo",NA,NA
+"구불결장의 악성 신생물 C18.7","Review of systems","weight","Have you experienced any unintentional weight loss recently?","최근에 의도하지 않은 체중 감소를 경험했습니까?",40,"gpt-4-turbo",NA,NA
+"구불결장의 악성 신생물 C18.7","Review of systems","abdominal pain","Do you experience any abdominal pain? If so, can you describe its location and nature?","복통을 경험하고 있습니까? 그렇다면 그 위치와 성질을 설명해 주실 수 있습니까?",41,"gpt-4-turbo",NA,NA
+"구불결장의 악성 신생물 C18.7","Review of systems","fatigue","Have you felt unusually tired or fatigued lately?","최근에 평소보다 피곤하거나 지쳤다고 느낀 적이 있습니까?",42,"gpt-4-turbo",NA,NA
+"구불결장의 악성 신생물 C18.7","Review of systems","nausea or vomiting","Have you had any nausea or vomiting?","구역질이나 구토가 있었습니까?",43,"gpt-4-turbo",NA,NA
+"구불결장의 악성 신생물 C18.7","Review of systems","blood in stool","Have you noticed any blood in your stool?","변에 혈흔을 발견한 적이 있습니까?",44,"gpt-4-turbo",NA,NA
+"류마티스인자 양성(91.7)","Details of the complaint","severity","How severe is the pain or discomfort you are experiencing?","당신이 경험하고 있는 통증이나 불편함은 얼마나 심합니까?",45,"gpt-4-turbo",NA,NA
+"류마티스인자 양성(91.7)","Details of the complaint","timing","Is the pain or discomfort constant, or does it come and go?","통증이나 불편함이 지속되는 것입니까, 아니면 오락가락 합니까?",46,"gpt-4-turbo",NA,NA
+"류마티스인자 양성(91.7)","Details of the complaint","aggravating factors","Are there specific activities or conditions that worsen your symptoms?","증상을 악화시키는 특정 활동이나 조건이 있습니까?",47,"gpt-4-turbo",NA,NA
+"류마티스인자 양성(91.7)","Review of systems","joint function","Have you noticed any difficulties in joint movements?","관절 움직임에 어려움을 느낀 적이 있습니까?",48,"gpt-4-turbo",NA,NA
+"류마티스인자 양성(91.7)","Review of systems","general well-being","Have you experienced recent fatigue or malaise?","최근에 피로하거나 몸살을 느낀 적이 있습니까?",49,"gpt-4-turbo",NA,NA
+"류마티스인자 양성(91.7)","Review of systems","skin","Have you noticed any unusual redness, rashes, or other changes in your skin?","피부에 이상한 홍조, 발진 또는 기타 변화를 눈치챈 적이 있습니까?",50,"gpt-4-turbo",NA,NA
+"상세불명의 간질환 분류기호 K769","Details of the complaint","severity","How severe is your abdominal pain on a scale of 1 to 10?","복통의 심각성을 1부터 10까지의 척도로 얼마나 심합니까?",51,"gpt-4-turbo",NA,NA
+"상세불명의 간질환 분류기호 K769","Details of the complaint","timing","Do you experience increased abdominal pain after eating?","식사 후 복통이 증가하나요?",52,"gpt-4-turbo",NA,NA
+"상세불명의 간질환 분류기호 K769","Details of the complaint","associated symptoms","Have you noticed any yellowing of your skin or eyes?","피부 또는 눈의 황변을 눈치챘습니까?",53,"gpt-4-turbo",NA,NA
+"상세불명의 간질환 분류기호 K769","Review of systems","general symptoms","Have you experienced any unusual itching?","평소와 다른 가려움증을 경험하셨습니까?",54,"gpt-4-turbo",NA,NA
+"상세불명의 간질환 분류기호 K769","Review of systems","digestive system","Have there been any changes in the color of your stool?","대변 색상에 변화가 있었나요?",55,"gpt-4-turbo",NA,NA
+"상세불명의 간질환 분류기호 K769","Review of systems","digestive system","Have you noticed any unusual bruising or bleeding?","평소와 다른 멍이나 출혈을 경험하셨습니까?",56,"gpt-4-turbo",NA,NA
+"상세불명의 간질환 분류기호 K769","Lifestyle details","alcohol use","How often and how much alcohol do you consume?","얼마나 자주 얼마나 많은 양의 알코올을 섭취하십니까?",57,"gpt-4-turbo",NA,NA
+"상세불명의 간질환 분류기호 K769","Past medical and surgical history","liver-related conditions","Have you had any previous liver disorders or surgeries related to your liver?","과거에 간 질환 또는 간과 관련된 수술을 받은 적이 있습니까?",58,"gpt-4-turbo",NA,NA
+"요추 추간판탈출증(의증) M4726, 건인대염, 고관절, 좌 M6585","Details of the complaint","location","Can you pinpoint where in the lower back or hip you feel the discomfort?","허리나 고관절 중 어디에 불편함을 느끼시나요?",59,"gpt-4-turbo",NA,NA
+"요추 추간판탈출증(의증) M4726, 건인대염, 고관절, 좌 M6585","Details of the complaint","severity","How severe is your pain on a scale from 1 to 10?","1에서 10까지의 척도로, 아픔의 강도를 얼마나 느끼시나요?",60,"gpt-4-turbo",NA,NA
+"요추 추간판탈출증(의증) M4726, 건인대염, 고관절, 좌 M6585","Details of the complaint","timing","Does the pain worsen at any particular time of day or during certain activities?","하루 중 특정 시간이나 특정 활동을 할 때 통증이 더 심해집니까?",61,"gpt-4-turbo",NA,NA
+"요추 추간판탈출증(의증) M4726, 건인대염, 고관절, 좌 M6585","Details of the complaint","aggravating factors","Are there any specific movements that exacerbate your hip or back pain?","고관절이나 등 통증을 악화시키는 특정 동작이 있으신가요?",62,"gpt-4-turbo",NA,NA
+"요추 추간판탈출증(의증) M4726, 건인대염, 고관절, 좌 M6585","Details of the complaint","associated symptoms","Do you experience any numbness or tingling along with the pain?","통증과 함께 저림이나 감각이상을 느끼시나요?",63,"gpt-4-turbo",NA,NA
+"요추 추간판탈출증(의증) M4726, 건인대염, 고관절, 좌 M6585","Review of systems","mobility","Has there been a recent change in your ability to walk or your range of motion in the hip?","최근에 걷기 능력이나 고관절의 움직임 범위에 변화가 있었나요?",64,"gpt-4-turbo",NA,NA
+"요추 추간판탈출증(의증) M4726, 건인대염, 고관절, 좌 M6585","Review of systems","neurological","Have you noticed any changes in bowel or bladder control?","배변이나 배뇨 제어에 변화를 느끼셨나요?",65,"gpt-4-turbo",NA,NA
+"외측 상과염[좌측], 분류기호 M771, 기타 관절의 일차성 관절증 M190","Details of the complaint","location","Do you feel pain specifically on the outer side of your left elbow?","왼쪽 팔꿈치의 바깥쪽에 특정하게 통증을 느끼십니까?",66,"gpt-4-turbo",NA,NA
+"외측 상과염[좌측], 분류기호 M771, 기타 관절의 일차성 관절증 M190","Details of the complaint","severity","How severe is the pain in your elbow on a scale from 1 to 10?","1에서 10 사이의 척도로 팔꿈치의 통증이 얼마나 심하십니까?",67,"gpt-4-turbo",NA,NA
+"외측 상과염[좌측], 분류기호 M771, 기타 관절의 일차성 관절증 M190","Details of the complaint","timing","Does the pain in your elbow worsen with specific movements or at certain times of the day?","팔꿈치의 통증이 특정 움직임이나 하루 중 특정 시간에 악화되나요?",68,"gpt-4-turbo",NA,NA
+"외측 상과염[좌측], 분류기호 M771, 기타 관절의 일차성 관절증 M190","Details of the complaint","associated symptoms","Have you experienced any numbness or tingling sensations in your elbow or hand?","팔꿈치나 손에 저림이나 따끔거림 같은 감각을 경험한 적이 있습니까?",69,"gpt-4-turbo",NA,NA
+"외측 상과염[좌측], 분류기호 M771, 기타 관절의 일차성 관절증 M190","Past medical history","related conditions","Have you previously been diagnosed with any other elbow or joint conditions?","이전에 팔꿈치나 다른 관절 질환에 대해 진단 받은 적이 있습니까?",70,"gpt-4-turbo",NA,NA
+"외측 상과염[좌측], 분류기호 M771, 기타 관절의 일차성 관절증 M190","Review of systems","mobility","Has there been a decrease in the range of motion in your elbow or other joints?","팔꿈치나 다른 관절의 운동 범위가 감소한 적이 있습니까?",71,"gpt-4-turbo",NA,NA
+"알콜사용에 의한 기타 정신 및 행동 장애 F108, 상세불명의 조증 에피소드 F309","Details of the complaint","timing","Do your mood changes or behavioral issues occur more frequently when you have been drinking?","음주 후 기분 변화나 행동 문제가 더 자주 발생하나요?",72,"gpt-4-turbo",NA,NA
+"알콜사용에 의한 기타 정신 및 행동 장애 F108, 상세불명의 조증 에피소드 F309","Details of the complaint","aggravating factors","Have you noticed any specific alcohol types or quantities that worsen your symptoms?","증상을 악화시키는 특정 알코올 종류나 양을 알고 있습니까?",73,"gpt-4-turbo",NA,NA
+"알콜사용에 의한 기타 정신 및 행동 장애 F108, 상세불명의 조증 에피소드 F309","Details of the complaint","associated symptoms","Do you experience periods of significantly increased energy or euphoria?","에너지가 크게 증가하거나 기분이 고양되는 시기가 있습니까?",74,"gpt-4-turbo",NA,NA
+"알콜사용에 의한 기타 정신 및 행동 장애 F108, 상세불명의 조증 에피소드 F309","Review of systems","psychological","Have you experienced episodes of extreme irritability or aggressive behavior?","극도의 짜증 또는 공격적인 행동을 겪은 적이 있습니까?",75,"gpt-4-turbo",NA,NA
+"알콜사용에 의한 기타 정신 및 행동 장애 F108, 상세불명의 조증 에피소드 F309","Review of systems","sleep patterns","Has your sleep pattern changed since the onset of these symptoms, such as experiencing insomnia or hypersomnia?","이러한 증상이 시작된 이래로 수면 패턴에 변화가 있었나요? 예를 들어 불면증이나 과다수면을 경험하는 등의 변화가 있습니까?",76,"gpt-4-turbo",NA,NA
+"알콜사용에 의한 기타 정신 및 행동 장애 F108, 상세불명의 조증 에피소드 F309","Review of systems","cognitive functions","Have you noticed any difficulties with concentration or decision-making?","집중력이나 의사결정에 어려움을 겪은 적이 있습니까?",77,"gpt-4-turbo",NA,NA
+"알콜사용에 의한 기타 정신 및 행동 장애 F108, 상세불명의 조증 에피소드 F309","Lifestyle details","alcohol consumption","Can you describe your typical alcohol consumption habits?","일반적인 음주 습관에 대해 설명해 주실 수 있나요?",78,"gpt-4-turbo",NA,NA
+"알콜사용에 의한 기타 정신 및 행동 장애 F108, 상세불명의 조증 에피소드 F309","Lifestyle details","response to stress","How do you usually handle stress or emotional distress?","보통 스트레스나 감정적 고통을 어떻게 처리하시나요?",79,"gpt-4-turbo",NA,NA
+"인슐린-비의존 당뇨병 E119, 고혈압 I109, 상세불명의 고지질혈증 E785, 상세불명의 만성 간염 K739","Details of the complaint","severity","How would you rate your blood sugar level fluctuations on a scale from 1 (mild) to 10 (severe)?","혈당 변동을 1(가벼움)에서 10(심각함)까지 어느 정도로 평가하시겠습니까?",80,"gpt-4-turbo",NA,NA
+"인슐린-비의존 당뇨병 E119, 고혈압 I109, 상세불명의 고지질혈증 E785, 상세불명의 만성 간염 K739","Review of systems","cardiovascular","Have you experienced any symptoms such as chest pain, palpitations, or shortness of breath?","가슴 통증, 심계항진 또는 숨가쁨과 같은 증상이 있었습니까?",81,"gpt-4-turbo",NA,NA
+"인슐린-비의존 당뇨병 E119, 고혈압 I109, 상세불명의 고지질혈증 E785, 상세불명의 만성 간염 K739","Details of the complaint","timing","Do your symptoms worsen after eating or during physical activities?","식사 후 또는 신체 활동 중 증상이 악화됩니까?",82,"gpt-4-turbo",NA,NA
+"인슐린-비의존 당뇨병 E119, 고혈압 I109, 상세불명의 고지질혈증 E785, 상세불명의 만성 간염 K739","Review of systems","gastrointestinal","Have you noticed any changes in your appetite, nausea, or abnormal bowel movements?","식욕 변화, 메스꺼움 또는 비정상적인 배변 활동을 느낀 적이 있습니까?",83,"gpt-4-turbo",NA,NA
+"인슐린-비의존 당뇨병 E119, 고혈압 I109, 상세불명의 고지질혈증 E785, 상세불명의 만성 간염 K739","Review of systems","hepatic","Have you observed any yellowing of the skin or eyes, known as jaundice?","황달로 알려진 피부나 눈의 황변을 관찰한 적이 있습니까?",84,"gpt-4-turbo",NA,NA
+"기타 관절의 원발성 관절증/손 M1904, 작열통 G564","Details of the complaint","location","Can you specify which joints in your hands are affected?","손의 어느 관절에 문제가 있습니까?",85,"gpt-4-turbo",NA,NA
+"기타 관절의 원발성 관절증/손 M1904, 작열통 G564","Details of the complaint","severity","How would you rate the pain in your hands on a scale of 1 to 10?","1에서 10까지의 척도에서 손의 통증을 어떻게 평가하시겠습니까?",86,"gpt-4-turbo",NA,NA
+"기타 관절의 원발성 관절증/손 M1904, 작열통 G564","Details of the complaint","timing","Do you experience the pain in your hands constantly or intermittently?","손의 통증이 지속적으로 있습니까, 아니면 간헐적입니까?",87,"gpt-4-turbo",NA,NA
+"기타 관절의 원발성 관절증/손 M1904, 작열통 G564","Details of the complaint","aggravating factors","Are there specific activities that increase the pain in your hands?","손의 통증을 증가시키는 구체적인 활동이 있습니까?",88,"gpt-4-turbo",NA,NA
+"기타 관절의 원발성 관절증/손 M1904, 작열통 G564","Details of the complaint","associated symptoms","Have you noticed any numbness, tingling, or weakness in your hands?","손에 저림, 따끔거림 또는 약함을 느낀 적이 있습니까?",89,"gpt-4-turbo",NA,NA
+"기타 관절의 원발성 관절증/손 M1904, 작열통 G564","Review of systems","neurological","Do you experience episodes of sharp, shooting pain along the nerves in your hands?","손의 신경을 따라 날카롭고 쏘는 듯한 통증을 경험한 적이 있습니까?",90,"gpt-4-turbo",NA,NA
+"여성생식기관 검사물의 상세불명의 이상소견 R87.9, 부신증식 E27.8, 기타 및 상세불명의 난소낭 N83.2, 소화관의 기타 부분의 진단영상검사상 이상소견 R93.3, 부신의 양성 신생물 D35.0","Details of the complaint","timing","When did you first notice symptoms related to your reproductive health?","생식 건강과 관련된 증상을 처음으로 언제 눈치채셨나요?",91,"gpt-4-turbo",NA,NA
+"여성생식기관 검사물의 상세불명의 이상소견 R87.9, 부신증식 E27.8, 기타 및 상세불명의 난소낭 N83.2, 소화관의 기타 부분의 진단영상검사상 이상소견 R93.3, 부신의 양성 신생물 D35.0","Details of the complaint","severity","How severe are any pains or discomforts in the pelvic area?","골반 부위의 통증이나 불편함의 심각성은 얼마나 됩니까?",92,"gpt-4-turbo",NA,NA
+"여성생식기관 검사물의 상세불명의 이상소견 R87.9, 부신증식 E27.8, 기타 및 상세불명의 난소낭 N83.2, 소화관의 기타 부분의 진단영상검사상 이상소견 R93.3, 부신의 양성 신생물 D35.0","Review of systems","gastrointestinal","Have you experienced any abnormal digestive symptoms lately?","최근 소화기 증상의 이상을 겪은 적이 있습니까?",93,"gpt-4-turbo",NA,NA
+"여성생식기관 검사물의 상세불명의 이상소견 R87.9, 부신증식 E27.8, 기타 및 상세불명의 난소낭 N83.2, 소화관의 기타 부분의 진단영상검사상 이상소견 R93.3, 부신의 양성 신생물 D35.0","Review of systems","endocrine","Are there any changes in your energy levels or unusual weight gain?","에너지 수준에 변화나 평소와 다른 체중 증가가 있었나요?",94,"gpt-4-turbo",NA,NA
+"여성생식기관 검사물의 상세불명의 이상소견 R87.9, 부신증식 E27.8, 기타 및 상세불명의 난소낭 N83.2, 소화관의 기타 부분의 진단영상검사상 이상소견 R93.3, 부신의 양성 신생물 D35.0","Past medical history","hormonal conditions","Have you been previously diagnosed with any hormonal or endocrine disorders?","호르몬 또는 내분비 장애로 진단받은 적이 있습니까?",95,"gpt-4-turbo",NA,NA
+"여성생식기관 검사물의 상세불명의 이상소견 R87.9, 부신증식 E27.8, 기타 및 상세불명의 난소낭 N83.2, 소화관의 기타 부분의 진단영상검사상 이상소견 R93.3, 부신의 양성 신생물 D35.0","Details of the complaint","associated symptoms","Have you noticed any unusual hair growth or skin changes?","평소와 다른 털이 자라거나 피부 변화를 느꼈던 적이 있습니까?",96,"gpt-4-turbo",NA,NA
+"여성생식기관 검사물의 상세불명의 이상소견 R87.9, 부신증식 E27.8, 기타 및 상세불명의 난소낭 N83.2, 소화관의 기타 부분의 진단영상검사상 이상소견 R93.3, 부신의 양성 신생물 D35.0","Review of systems","menstrual","Have there been any recent changes in your menstrual cycle?","최근 생리주기에 변화가 있었습니까?",97,"gpt-4-turbo",NA,NA
+"여성생식기관 검사물의 상세불명의 이상소견 R87.9, 부신증식 E27.8, 기타 및 상세불명의 난소낭 N83.2, 소화관의 기타 부분의 진단영상검사상 이상소견 R93.3, 부신의 양성 신생물 D35.0","Review of systems","reproductive","Are there any specific discomforts during intercourse?","성교 시 특별한 불편함이 있으십니까?",98,"gpt-4-turbo",NA,NA
+"상세불명의 만성 위염","Details of the complaint","severity","How severe is your stomach pain on a scale of 1 to 10?","위통의 심각성을 1부터 10까지의 척도로 얼마나 되나요?",99,"gpt-4-turbo",NA,NA
+"상세불명의 만성 위염","Details of the complaint","timing","Do you notice if your stomach pain occurs after eating or at a specific time of day?","특정 시간에 또는 식사 후에 위통이 발생하는지 알고 계십니까?",100,"gpt-4-turbo",NA,NA
+"상세불명의 만성 위염","History of present illness","associated symptoms","Have you experienced any nausea, vomiting, or loss of appetite?","메스꺼움, 구토, 식욕 감소를 경험한 적이 있습니까?",101,"gpt-4-turbo",NA,NA
+"상세불명의 만성 위염","Review of systems","digestive","Have you noticed any changes in your bowel movements or stool color?","대변의 변화나 변색을 눈치채셨나요?",102,"gpt-4-turbo",NA,NA
+"상세불명의 만성 위염","Review of systems","weight change","Have you experienced any unintentional weight loss recently?","최근에 의도하지 않은 체중 감소가 있었습니까?",103,"gpt-4-turbo",NA,NA
+"상세불명의 만성 위염","Review of systems","general wellbeing","Have you been feeling more fatigued or weak lately?","최근에 더 피곤하거나 약해진 느낌이 드십니까?",104,"gpt-4-turbo",NA,NA
+"기타 만성 부비동염, R/O Odontogenic sinusitis Lt, J342 Fungal sinusitis Lt, 편위된 비중격, 코선반의 비대, R/O 부비동의 기타 폴립","Details of the complaint","location","Do you feel pressure or pain in any specific part of your face or head?","얼굴 또는 머리의 특정 부위에 압박감이나 통증을 느끼십니까?",105,"gpt-4-turbo",NA,NA
+"기타 만성 부비동염, R/O Odontogenic sinusitis Lt, J342 Fungal sinusitis Lt, 편위된 비중격, 코선반의 비대, R/O 부비동의 기타 폴립","Details of the complaint","severity","How severe is your sinus pain on a scale from 1 to 10?","1에서 10 사이의 척도로 부비동 통증이 얼마나 심합니까?",106,"gpt-4-turbo",NA,NA
+"기타 만성 부비동염, R/O Odontogenic sinusitis Lt, J342 Fungal sinusitis Lt, 편위된 비중격, 코선반의 비대, R/O 부비동의 기타 폴립","Details of the complaint","timing","Is your sinus pain worse during certain times of the day or under any specific conditions?","일정 시간이나 특정 조건에서 부비동 통증이 더 심해집니까?",107,"gpt-4-turbo",NA,NA
+"기타 만성 부비동염, R/O Odontogenic sinusitis Lt, J342 Fungal sinusitis Lt, 편위된 비중격, 코선반의 비대, R/O 부비동의 기타 폴립","Details of the complaint","aggravating factors","Do certain activities or environmental factors worsen your sinus symptoms?","특정 활동이나 환경적 요인으로 부비동 증상이 악화됩니까?",108,"gpt-4-turbo",NA,NA
+"기타 만성 부비동염, R/O Odontogenic sinusitis Lt, J342 Fungal sinusitis Lt, 편위된 비중격, 코선반의 비대, R/O 부비동의 기타 폴립","Details of the complaint","associated symptoms","Are you experiencing any nasal congestion, discharge, or reduced sense of smell?","코 막힘, 콧물, 또는 후각 감소 증상이 있습니까?",109,"gpt-4-turbo",NA,NA
+"기타 만성 부비동염, R/O Odontogenic sinusitis Lt, J342 Fungal sinusitis Lt, 편위된 비중격, 코선반의 비대, R/O 부비동의 기타 폴립","Review of systems","respiratory","Do you have difficulty breathing or frequent sneezing?","호흡곤란이나 자주 재치기를 합니까?",110,"gpt-4-turbo",NA,NA
+"기타 만성 부비동염, R/O Odontogenic sinusitis Lt, J342 Fungal sinusitis Lt, 편위된 비중격, 코선반의 비대, R/O 부비동의 기타 폴립","Review of systems","general health","Have you had any fevers or unexplained weight loss?","열이 나거나 설명할 수 없는 체중 감소가 있었습니까?",111,"gpt-4-turbo",NA,NA
+"기타 만성 부비동염, R/O Odontogenic sinusitis Lt, J342 Fungal sinusitis Lt, 편위된 비중격, 코선반의 비대, R/O 부비동의 기타 폴립","Review of systems","oral health","Have you noticed any recent changes or issues with your dental health which could relate to sinus problems?","부비동 문제와 관련될 수 있는 치과 건강의 최근 변화나 문제를 알아차린 적이 있습니까?",112,"gpt-4-turbo",NA,NA
+"기타 만성 부비동염, R/O Odontogenic sinusitis Lt, J342 Fungal sinusitis Lt, 편위된 비중격, 코선반의 비대, R/O 부비동의 기타 폴립","Review of systems","ENT","Have you observed any changes in your hearing or frequent ear infections?","청력 변화나 자주 발생하는 귀 감염을 관찰한 적이 있습니까?",113,"gpt-4-turbo",NA,NA
+"기타 만성 부비동염, R/O Odontogenic sinusitis Lt, J342 Fungal sinusitis Lt, 편위된 비중격, 코선반의 비대, R/O 부비동의 기타 폴립","Review of systems","nasal structure","Have you experienced any changes in the structure or appearance of your nose?","코의 구조나 외형에 변화를 경험한 적이 있습니까?",114,"gpt-4-turbo",NA,NA
+"만성 근단치주염, 근단주위 육아종 K04.5","Details of the complaint","location","Which tooth or area are you experiencing discomfort in?","어느 치아나 부위에 불편함을 느끼고 계십니까?",115,"gpt-4-turbo",NA,NA
+"만성 근단치주염, 근단주위 육아종 K04.5","Details of the complaint","severity","How severe is the pain on a scale of 1 to 10?","통증의 심각도를 1에서 10까지의 척도로 어떻게 평가하시나요?",116,"gpt-4-turbo",NA,NA
+"만성 근단치주염, 근단주위 육아종 K04.5","Details of the complaint","timing","Does the pain occur spontaneously or is it triggered by something such as eating or touching?","통증은 저절로 발생하나요, 아니면 식사나 만짐과 같은 무언가에 의해 유발되나요?",117,"gpt-4-turbo",NA,NA
+"만성 근단치주염, 근단주위 육아종 K04.5","Details of the complaint","associated symptoms","Have you noticed any gum swelling, discharge, or bad taste around the affected area?","영향 받은 부위 주변에서 잇몸이 붓거나 분비물이 나오거나 나쁜 맛을 느낀 적이 있습니까?",118,"gpt-4-turbo",NA,NA
+"만성 근단치주염, 근단주위 육아종 K04.5","Review of systems","oral health","Have you experienced any other oral symptoms such as loose teeth or changes in tooth color?","치아가 흔들리거나 치아 색깔이 변하는 등 다른 구강 증상을 경험한 적이 있습니까?",119,"gpt-4-turbo",NA,NA
+"상세불명의 경제연구청층, 발목 및 발 M1997 이단성 M932","Details of the complaint","location","Can you specify where exactly you feel discomfort in your ankle or foot?","발목이나 발 어디에서 불편함을 느끼시나요?",120,"gpt-4-turbo",NA,NA
+"상세불명의 경제연구청층, 발목 및 발 M1997 이단성 M932","Details of the complaint","severity","How severe is the pain in your ankle or foot on a scale of 1 to 10?","발목이나 발의 통증 정도를 1에서 10까지의 척도로 어떻게 평가하시나요?",121,"gpt-4-turbo",NA,NA
+"상세불명의 경제연구청층, 발목 및 발 M1997 이단성 M932","Details of the complaint","timing","Do you notice if the discomfort in your ankle or foot is worse at specific times of the day?","하루 중 특정 시간에 발목이나 발의 불편함이 더 심해지나요?",122,"gpt-4-turbo",NA,NA
+"상세불명의 경제연구청층, 발목 및 발 M1997 이단성 M932","Details of the complaint","aggravating factors","What activities aggravate your ankle or foot discomfort?","어떤 활동을 할 때 발목이나 발의 불편함이 심해지나요?",123,"gpt-4-turbo",NA,NA
+"상세불명의 경제연구청층, 발목 및 발 M1997 이단성 M932","Details of the complaint","associated symptoms","Have you experienced any swelling, redness, or warmth in the affected area?","영향을 받은 부위에 부종, 발적 또는 열감이 있었나요?",124,"gpt-4-turbo",NA,NA
+"상세불명의 경제연구청층, 발목 및 발 M1997 이단성 M932","Review of systems","mobility","Has there been any decrease in your mobility due to the ankle or foot issue?","발목이나 발 문제로 인해 이동성이 감소했나요?",125,"gpt-4-turbo",NA,NA
+"상세불명의 경제연구청층, 발목 및 발 M1997 이단성 M932","Review of systems","skin changes","Have you noticed any skin changes or discoloration around your ankle or foot?","발목이나 발 주위에 피부 변화나 변색이 있었나요?",126,"gpt-4-turbo",NA,NA
+"종격동내 갑상선종, 갑상선결절","Details of the complaint","associated symptoms","Have you experienced any difficulty swallowing?","삼키는 데 어려움을 겪은 적이 있습니까?",127,"gpt-4-turbo",NA,NA
+"종격동내 갑상선종, 갑상선결절","Details of the complaint","associated symptoms","Have you noticed any changes in your voice, such as hoarseness?","목소리의 변화, 예를 들어 쉰 목소리를 느낀 적이 있습니까?",128,"gpt-4-turbo",NA,NA
+"종격동내 갑상선종, 갑상선결절","Details of the complaint","associated symptoms","Do you feel any pressure or pain in your neck?","목에 압박감이나 통증을 느꼈던 적이 있습니까?",129,"gpt-4-turbo",NA,NA
+"종격동내 갑상선종, 갑상선결절","Review of systems","respiratory","Have you experienced any shortness of breath?","호흡곤란을 겪은 적이 있습니까?",130,"gpt-4-turbo",NA,NA
+"종격동내 갑상선종, 갑상선결절","Review of systems","cardiovascular","Have you had any episodes of rapid heartbeat or palpitations?","심장 두근거림이나 빠른 심장박동을 경험한 적이 있습니까?",131,"gpt-4-turbo",NA,NA
+"국소부종 R600, 아래허리통증-허리부위 M5456","Details of the complaint","timing","When do you typically experience lower back pain?","하부 허리 통증을 언제 가장 많이 경험하십니까?",132,"gpt-4-turbo",NA,NA
+"국소부종 R600, 아래허리통증-허리부위 M5456","Details of the complaint","aggravating factors","Are there specific activities or positions that worsen your lower back pain?","하부 허리 통증을 악화시키는 특정 활동이나 자세가 있습니까?",133,"gpt-4-turbo",NA,NA
+"국소부종 R600, 아래허리통증-허리부위 M5456","Review of systems","neurological","Have you noticed any numbness, tingling, or weakness in your legs?","다리에 저림, 따끔거림 또는 약화가 있었습니까?",134,"gpt-4-turbo",NA,NA
+"국소부종 R600, 아래허리통증-허리부위 M5456","Review of systems","associated symptoms","Have you observed any redness or warmth around the swollen area?","부종이 있는 부위에 발적이나 따뜻함이 있었습니까?",135,"gpt-4-turbo",NA,NA
+"국소부종 R600, 아래허리통증-허리부위 M5456","Details of the complaint","duration","How long have you been experiencing localized swelling?","국소 부종을 얼마나 오래 경험하셨습니까?",136,"gpt-4-turbo",NA,NA
+"국소부종 R600, 아래허리통증-허리부위 M5456","Review of systems","skin","Is there any skin discolouration or bruising associated with the swelling?","부종과 관련하여 피부 변색이나 멍이 있습니까?",137,"gpt-4-turbo",NA,NA
+"담당기저부의 불규칙한 담벽 비후 r/o 탐낭 종양","Details of the complaint","timing","When did you first notice symptoms related to your gallbladder?","담낭 증상을 처음 언제 느끼셨나요?",138,"gpt-4-turbo",NA,NA
+"담당기저부의 불규칙한 담벽 비후 r/o 탐낭 종양","Details of the complaint","severity","How severe is the pain or discomfort you experience?","느끼는 통증이나 불편함의 정도가 얼마나 심한가요?",139,"gpt-4-turbo",NA,NA
+"담당기저부의 불규칙한 담벽 비후 r/o 탐낭 종양","Details of the complaint","associated symptoms","Do you experience nausea or vomiting along with the gallbladder issues?","담낭 문제와 함께 구토나 메스꺼움을 경험하셨나요?",140,"gpt-4-turbo",NA,NA
+"담당기저부의 불규칙한 담벽 비후 r/o 탐낭 종양","Details of the complaint","aggravating factors","Do certain foods or activities aggravate your gallbladder symptoms?","특정 음식이나 활동이 담낭 증상을 악화시키나요?",141,"gpt-4-turbo",NA,NA
+"담당기저부의 불규칙한 담벽 비후 r/o 탐낭 종양","Review of systems","digestive","Have you noticed any changes in your bowel movements or stool color?","배변 습관이나 변 색깔에 변화가 있었나요?",142,"gpt-4-turbo",NA,NA
+"담당기저부의 불규칙한 담벽 비후 r/o 탐낭 종양","Review of systems","weight changes","Have you experienced any unexplained weight loss or weight gain?","설명할 수 없는 체중 감소나 체중 증가를 경험하셨나요?",143,"gpt-4-turbo",NA,NA
+"담당기저부의 불규칙한 담벽 비후 r/o 탐낭 종양","Review of systems","fever","Have you had any episodes of fever?","열이 난 적이 있나요?",144,"gpt-4-turbo",NA,NA
+"양손 원위지관절의 변형 및 통증","Details of the complaint","location","Can you point out the exact locations on your hands where you feel the deformity and pain?","손에서 변형과 통증을 느끼는 정확한 위치를 가리켜 주실 수 있습니까?",145,"gpt-4-turbo",NA,NA
+"양손 원위지관절의 변형 및 통증","Details of the complaint","severity","On a scale from 1 to 10, how would you rate the pain you are experiencing in your hands?","1에서 10까지의 척도에서, 손의 통증을 얼마나 심하게 느끼십니까?",146,"gpt-4-turbo",NA,NA
+"양손 원위지관절의 변형 및 통증","Details of the complaint","aggravating factors","Are there specific activities or times of day when the pain or deformity in your hands worsens?","손의 통증이나 변형이 악화되는 구체적인 활동이나 시간이 있습니까?",147,"gpt-4-turbo",NA,NA
+"양손 원위지관절의 변형 및 통증","Review of systems","motor function","Have you experienced any difficulty in gripping or manipulating objects with your hands?","손으로 물건을 잡거나 다루는 데 어려움을 겪은 적이 있습니까?",148,"gpt-4-turbo",NA,NA
+"양손 원위지관절의 변형 및 통증","Review of systems","skin changes","Have you noticed any changes in the skin around your hands, such as color changes, rashes, or thickening?","손 주변 피부의 색 변화, 발진, 두꺼워짐과 같은 변화를 눈치채신 적이 있습니까?",149,"gpt-4-turbo",NA,NA
+"고혈압(동맥성, 본태성, 일차성, 전신)","Details of the complaint","severity","How severe is your headache, if you have any?","두통이 있다면, 그 정도가 얼마나 심합니까?",150,"gpt-4-turbo",NA,NA
+"고혈압(동맥성, 본태성, 일차성, 전신)","Details of the complaint","associated symptoms","Have you noticed any episodes of dizziness or lightheadedness?","어지럼증이나 현기증을 느낀 적이 있습니까?",151,"gpt-4-turbo",NA,NA
+"고혈압(동맥성, 본태성, 일차성, 전신)","Review of systems","visual","Have there been any changes in your vision such as blurriness?","시력 변화가 있었나요? 예를 들어, 시야가 흐려지는 현상이 있습니까?",152,"gpt-4-turbo",NA,NA
+"고혈압(동맥성, 본태성, 일차성, 전신)","Review of systems","cardiovascular","Have you experienced any chest pain or palpitations?","가슴 통증이나 심계항진을 경험한 적이 있습니까?",153,"gpt-4-turbo",NA,NA
+"고혈압(동맥성, 본태성, 일차성, 전신)","Lifestyle details","diet","Can you describe your typical salt intake?","평소 섭취하는 소금의 양을 설명해 주실 수 있습니까?",154,"gpt-4-turbo",NA,NA
+"고혈압(동맥성, 본태성, 일차성, 전신)","Lifestyle details","physical activity","How often do you engage in physical activity?","운동을 얼마나 자주 하십니까?",155,"gpt-4-turbo",NA,NA
+"담낭의 악성 신생물 C23","Details of the complaint","severity","How would you rate the pain or discomfort in the abdominal area on a scale of 1 to 10?","복부 통증이나 불편함을 1에서 10까지 어느 정도로 평가하시겠습니까?",156,"gpt-4-turbo",NA,NA
+"담낭의 악성 신생물 C23","Details of the complaint","timing","Does the pain occur after eating or during specific times of the day?","식사 후나 하루 중 특정 시간에 통증이 발생합니까?",157,"gpt-4-turbo",NA,NA
+"담낭의 악성 신생물 C23","Review of systems","weight changes","Have you experienced any unexpected weight loss recently?","최근에 예상치 못한 체중 감소가 있었습니까?",158,"gpt-4-turbo",NA,NA
+"담낭의 악성 신생물 C23","Review of systems","appetite","Have you noticed any changes in your appetite?","식욕에 변화가 있었습니까?",159,"gpt-4-turbo",NA,NA
+"담낭의 악성 신생물 C23","Review of systems","jaundice","Have you noticed any yellowing of your skin or the whites of your eyes?","피부나 눈의 흰자위가 노랗게 변한 것을 느끼셨습니까?",160,"gpt-4-turbo",NA,NA
+"C259 상세불명의 췌장의 악성 신생물","Details of the complaint","severity","Have you experienced any severe abdominal pain?","심한 복통을 경험한 적이 있습니까?",161,"gpt-4-turbo",NA,NA
+"C259 상세불명의 췌장의 악성 신생물","Details of the complaint","associated symptoms","Have you noticed any jaundice or change in stool color?","황달이나 변 색깔의 변화를 느낀 적이 있나요?",162,"gpt-4-turbo",NA,NA
+"C259 상세불명의 췌장의 악성 신생물","Review of systems","digestive","Have you experienced unexplained weight loss or loss of appetite?","설명할 수 없는 체중 감소나 식욕 부진이 있었나요?",163,"gpt-4-turbo",NA,NA
+"C259 상세불명의 췌장의 악성 신생물","Review of systems","digestive","Have you noticed any changes in your digestive function or unusual digestive symptoms?","소화 기능의 변화나 평소와 다른 소화 증상을 느낀 적이 있습니까?",164,"gpt-4-turbo",NA,NA
+"C259 상세불명의 췌장의 악성 신생물","Past medical history","risk factors","Do you have a history of chronic pancreatitis or diabetes?","만성 췌장염이나 당뇨병의 병력이 있습니까?",165,"gpt-4-turbo",NA,NA
+"C259 상세불명의 췌장의 악성 신생물","Lifestyle details","alcohol use","Can you tell me about your alcohol consumption habits?","음주 습관에 대해 말씀해 주시겠습니까?",166,"gpt-4-turbo",NA,NA
+"기타 명시된 두통증후군[양측] 분류기호 G448","Details of the complaint","timing","Do your headaches occur at specific times of the day?","두통이 하루 중 특정 시간에 발생하나요?",167,"gpt-4-turbo",NA,NA
+"기타 명시된 두통증후군[양측] 분류기호 G448","Details of the complaint","location","Are the headaches localized to one area or do they affect your whole head?","두통이 한 부위에 국한되거나 전체 머리에 영향을 주나요?",168,"gpt-4-turbo",NA,NA
+"기타 명시된 두통증후군[양측] 분류기호 G448","Review of systems","visual disturbances","Do you experience any visual disturbances with your headaches, like blurriness or flashing lights?","두통이 있을 때 시각 장애, 예를 들어 흐릿한 시야나 번쩍이는 빛을 경험하나요?",169,"gpt-4-turbo",NA,NA
+"기타 명시된 두통증후군[양측] 분류기호 G448","Review of systems","nausea","Do you feel nauseous or vomit when you have a headache?","두통이 있을 때 메스꺼움이나 구토를 느끼나요?",170,"gpt-4-turbo",NA,NA
+"기타 명시된 두통증후군[양측] 분류기호 G448","Review of systems","sensitivity","Are you more sensitive to light or sound when experiencing a headache?","두통이 있을 때 빛이나 소리에 더 민감하나요?",171,"gpt-4-turbo",NA,NA
+"기타 명시된 두통증후군[양측] 분류기호 G448","Review of systems","sleep disturbances","Do your headaches affect your sleep patterns?","두통이 수면 패턴에 영향을 미치나요?",172,"gpt-4-turbo",NA,NA
+"기타 음낭수종(N432), 재발성, 폐색은 있지만 괴저가 없는 한쪽 또는 상세불명의 사타구니탈장(K4031), 당뇨병성 말초혈관병증을 동반한, 괴저를 동반하지 않는 인슐린-비의존 당뇨병(E1150), 고혈압(동맥성, 본태성, 일차성, 전신)(I109), 복수를 동반한 알코올성 간경변증(K7031)","Details of the complaint","severity","How severe is the pain or discomfort associated with hernia?","탈장과 관련된 통증이나 불편함이 얼마나 심합니까?",173,"gpt-4-turbo",NA,NA
+"기타 음낭수종(N432), 재발성, 폐색은 있지만 괴저가 없는 한쪽 또는 상세불명의 사타구니탈장(K4031), 당뇨병성 말초혈관병증을 동반한, 괴저를 동반하지 않는 인슐린-비의존 당뇨병(E1150), 고혈압(동맥성, 본태성, 일차성, 전신)(I109), 복수를 동반한 알코올성 간경변증(K7031)","Details of the complaint","location","Do you experience any pain or swelling specifically in the scrotum area?","음낭 부위에 특별히 통증이나 부어오름을 경험하신 적이 있습니까?",174,"gpt-4-turbo",NA,NA
+"기타 음낭수종(N432), 재발성, 폐색은 있지만 괴저가 없는 한쪽 또는 상세불명의 사타구니탈장(K4031), 당뇨병성 말초혈관병증을 동반한, 괴저를 동반하지 않는 인슐린-비의존 당뇨병(E1150), 고혈압(동맥성, 본태성, 일차성, 전신)(I109), 복수를 동반한 알코올성 간경변증(K7031)","Details of the complaint","timing","Does the scrotum discomfort increase with physical activity or while standing?","신체 활동 중이나 서있을 때 음낭의 불편함이 증가합니까?",175,"gpt-4-turbo",NA,NA
+"기타 음낭수종(N432), 재발성, 폐색은 있지만 괴저가 없는 한쪽 또는 상세불명의 사타구니탈장(K4031), 당뇨병성 말초혈관병증을 동반한, 괴저를 동반하지 않는 인슐린-비의존 당뇨병(E1150), 고혈압(동맥성, 본태성, 일차성, 전신)(I109), 복수를 동반한 알코올성 간경변증(K7031)","Review of systems","vascular health","Have you noticed any changes in the color or temperature of your feet?","발의 색깔이나 온도에 변화를 느낀 적이 있습니까?",176,"gpt-4-turbo",NA,NA
+"기타 음낭수종(N432), 재발성, 폐색은 있지만 괴저가 없는 한쪽 또는 상세불명의 사타구니탈장(K4031), 당뇨병성 말초혈관병증을 동반한, 괴저를 동반하지 않는 인슐린-비의존 당뇨병(E1150), 고혈압(동맥성, 본태성, 일차성, 전신)(I109), 복수를 동반한 알코올성 간경변증(K7031)","Review of systems","liver function","Have you experienced any yellowing of your skin or eyes?","피부나 눈의 황변을 경험하신 적이 있습니까?",177,"gpt-4-turbo",NA,NA
+"기타 음낭수종(N432), 재발성, 폐색은 있지만 괴저가 없는 한쪽 또는 상세불명의 사타구니탈장(K4031), 당뇨병성 말초혈관병증을 동반한, 괴저를 동반하지 않는 인슐린-비의존 당뇨병(E1150), 고혈압(동맥성, 본태성, 일차성, 전신)(I109), 복수를 동반한 알코올성 간경변증(K7031)","Review of systems","circulatory symptoms","Do you feel any numbness or tingling in your limbs?","사지에 저림이나 감각이상을 느끼신 적이 있습니까?",178,"gpt-4-turbo",NA,NA
+"기타 음낭수종(N432), 재발성, 폐색은 있지만 괴저가 없는 한쪽 또는 상세불명의 사타구니탈장(K4031), 당뇨병성 말초혈관병증을 동반한, 괴저를 동반하지 않는 인슐린-비의존 당뇨병(E1150), 고혈압(동맥성, 본태성, 일차성, 전신)(I109), 복수를 동반한 알코올성 간경변증(K7031)","Lifestyle details","alcohol consumption","Can you describe your average alcohol consumption per week?","주당 평균 얼마나 많은 알코올을 섭취하십니까?",179,"gpt-4-turbo",NA,NA
+"기타 음낭수종(N432), 재발성, 폐색은 있지만 괴저가 없는 한쪽 또는 상세불명의 사타구니탈장(K4031), 당뇨병성 말초혈관병증을 동반한, 괴저를 동반하지 않는 인슐린-비의존 당뇨병(E1150), 고혈압(동맥성, 본태성, 일차성, 전신)(I109), 복수를 동반한 알코올성 간경변증(K7031)","Review of systems","abdominal symptoms","Have you noticed an increase in abdominal girth or new-onset ascites?","복부 둘레가 증가하거나 새로 발생한 복수를 느낀 적이 있습니까?",180,"gpt-4-turbo",NA,NA
+"R/0 Irritable bowel syndrome, Reflux esophagitis","Details of the complaint","severity","How severe is your abdominal pain on a scale of 1 to 10?","복통의 심각성을 1에서 10까지의 척도로 얼마나 됩니까?",181,"gpt-4-turbo",NA,NA
+"R/0 Irritable bowel syndrome, Reflux esophagitis","Details of the complaint","timing","Do you notice your symptoms occurring more frequently after eating or during periods of stress?","식사 후나 스트레스를 받을 때 증상이 더 자주 나타나나요?",182,"gpt-4-turbo",NA,NA
+"R/0 Irritable bowel syndrome, Reflux esophagitis","Review of systems","gastrointestinal","Have you experienced any changes in your bowel habits?","배변 습관에 변화가 있었습니까?",183,"gpt-4-turbo",NA,NA
+"R/0 Irritable bowel syndrome, Reflux esophagitis","Review of systems","gastrointestinal","Have you noted an increase in gas or bloating?","가스가 많아지거나 복부 팽만감을 느낀 적이 있습니까?",184,"gpt-4-turbo",NA,NA
+"R/0 Irritable bowel syndrome, Reflux esophagitis","Details of the complaint","aggravating factors","Are there specific foods or activities that worsen your abdominal symptoms?","특정 음식이나 활동이 복부 증상을 악화시키나요?",185,"gpt-4-turbo",NA,NA
+"R/0 Irritable bowel syndrome, Reflux esophagitis","Review of systems","gastroesophageal","Do you often feel heartburn or acid reflux, especially after eating?","식사 후 특히 자주 가슴 앓이나 위산 역류를 느끼나요?",186,"gpt-4-turbo",NA,NA
+"R/0 Irritable bowel syndrome, Reflux esophagitis","Review of systems","gastroesophageal","Have you noticed any difficulty swallowing?","삼키는 데 어려움을 겪은 적이 있습니까?",187,"gpt-4-turbo",NA,NA
+"신경뿌리병증을 동반한 요추 및 기타 추간판장애 (G55.1*), 척추전방전위증, 요추부","Details of the complaint","severity","How would you rate your back pain on a scale from 1 to 10?","허리 통증의 정도를 1부터 10까지의 척도로 평가해 주시겠습니까?",188,"gpt-4-turbo",NA,NA
+"신경뿌리병증을 동반한 요추 및 기타 추간판장애 (G55.1*), 척추전방전위증, 요추부","Details of the complaint","timing","Does your back pain occur more frequently during certain times of the day or after specific activities?","특정 시간이나 활동 후에 허리 통증이 더 자주 발생합니까?",189,"gpt-4-turbo",NA,NA
+"신경뿌리병증을 동반한 요추 및 기타 추간판장애 (G55.1*), 척추전방전위증, 요추부","Details of the complaint","associated symptoms","Do you experience numbness or tingling sensations in your legs?","다리에 저림 또는 따끔거림을 느낀 적이 있습니까?",190,"gpt-4-turbo",NA,NA
+"신경뿌리병증을 동반한 요추 및 기타 추간판장애 (G55.1*), 척추전방전위증, 요추부","Review of systems","neurological","Have you noticed any weakness in your legs or difficulty walking?","다리가 약해지거나 걷기 어려운 적이 있습니까?",191,"gpt-4-turbo",NA,NA
+"신경뿌리병증을 동반한 요추 및 기타 추간판장애 (G55.1*), 척추전방전위증, 요추부","Details of the complaint","aggravating factors","Are there any movements or postures that worsen your back pain?","허리 통증을 악화시키는 동작이나 자세가 있습니까?",192,"gpt-4-turbo",NA,NA
+"신경뿌리병증을 동반한 요추 및 기타 추간판장애 (G55.1*), 척추전방전위증, 요추부","Review of systems","mobility","Has there been a decrease in the range of motion in your lower back?","허리의 움직임 범위가 감소된 적이 있습니까?",193,"gpt-4-turbo",NA,NA
+"CAOD","Details of the complaint","severity","How severe is the pain in your legs during activity or at rest?","활동 중이거나 휴식 시 다리의 통증이 얼마나 심합니까?",194,"gpt-4-turbo",NA,NA
+"CAOD","Details of the complaint","timing","Do symptoms of leg pain improve with rest?","휴식을 취하면 다리 통증 증상이 개선됩니까?",195,"gpt-4-turbo",NA,NA
+"CAOD","Associated symptoms","coolness","Have you noticed any unusual coolness in your legs or feet?","다리나 발에서 평소와 다른 차가움을 느낀 적이 있습니까?",196,"gpt-4-turbo",NA,NA
+"CAOD","Associated symptoms","skin color changes","Are there any changes in the skin color of your legs or feet?","다리나 발의 피부색에 변화가 있습니까?",197,"gpt-4-turbo",NA,NA
+"CAOD","Review of systems","walking capability","Have you experienced any limitations in walking distances or climbing stairs?","거리를 걷거나 계단을 오르는데 제한을 경험한 적이 있습니까?",198,"gpt-4-turbo",NA,NA
+"양안 노인성 백내장","Details of the complaint","vision changes","Have you noticed any changes in your vision, such as blurriness or decreased vision?","시력이 흐려지거나 감소하는 등 시력 변화를 느낀 적이 있습니까?",199,"gpt-4-turbo",NA,NA
+"양안 노인성 백내장","Details of the complaint","light sensitivity","Do you experience increased sensitivity to light or glare?","빛에 대한 민감성이나 눈부심이 증가했습니까?",200,"gpt-4-turbo",NA,NA
+"양안 노인성 백내장","Details of the complaint","color perception","Have you noticed any changes in how you perceive colors?","색상 인식에 변화를 느낀 적이 있습니까?",201,"gpt-4-turbo",NA,NA
+"양안 노인성 백내장","Details of the complaint","night vision","Have you experienced any difficulties with night vision?","야간 시력에 어려움을 겪은 적이 있습니까?",202,"gpt-4-turbo",NA,NA
+"양안 노인성 백내장","Review of systems","visual performance","Has there been any recent incident where poor vision affected your daily activities?","시력 저하로 일상 활동에 지장을 받은 최근 사례가 있습니까?",203,"gpt-4-turbo",NA,NA
+"R/0 HCC 의심","Review of systems","gastrointestinal","Have you experienced any abdominal pain or discomfort?","복통이나 불편함을 경험한 적이 있습니까?",204,"gpt-4-turbo",NA,NA
+"R/0 HCC 의심","Review of systems","appetite","Have you noticed any changes in your appetite, such as a decrease or aversion to food?","식욕 감소 또는 음식에 대한 거부감과 같은 식욕 변화를 느낀 적이 있습니까?",205,"gpt-4-turbo",NA,NA
+"R/0 HCC 의심","Review of systems","weight","Have you lost weight unintentionally?","의도하지 않은 체중 감소가 있었습니까?",206,"gpt-4-turbo",NA,NA
+"R/0 HCC 의심","Review of systems","nausea","Have you experienced nausea or vomiting?","메스꺼움이나 구토 증상이 있었습니까?",207,"gpt-4-turbo",NA,NA
+"R/0 HCC 의심","Past medical history","liver disease","Do you have a history of liver disease or hepatitis?","간 질환 또는 간염의 병력이 있습니까?",208,"gpt-4-turbo",NA,NA
+"R/0 HCC 의심","Review of systems","jaundice","Have you noticed any yellowing of your skin or eyes?","피부 또는 눈의 황달(노란색으로 변함)을 눈치챈 적이 있습니까?",209,"gpt-4-turbo",NA,NA
+"R/0 HCC 의심","Review of systems","fatigue","Do you feel unusually tired or fatigued?","평소보다 피곤하거나 피로를 느낀 적이 있습니까?",210,"gpt-4-turbo",NA,NA
+"R/0 HCC 의심","Family medical history","liver cancer","Is there any family history of liver cancer?","가족 중에 간암 병력이 있습니까?",211,"gpt-4-turbo",NA,NA
+"R/0 HCC 의심","Lifestyle","alcohol use","Do you consume alcohol? If so, how frequently and how much?","술을 마십니까? 그렇다면, 얼마나 자주 얼마나 많이 마십니까?",212,"gpt-4-turbo",NA,NA
+"R/0 HCC 의심","Past medical history","hepatotoxic drugs","Have you taken any medications known to be harmful to the liver?","간에 해로운 알려진 약물을 복용한 적이 있습니까?",213,"gpt-4-turbo",NA,NA
+"좌측 내경동맥 협착/뇌실질 위축","History of the present illness","symptom duration","When did you first notice symptoms related to left carotid artery stenosis or cerebral atrophy?","좌측 내경동맥 협착이나 뇌실질 위축과 관련된 증상을 처음으로 느낀 시기는 언제입니까?",214,"gpt-4-turbo",NA,NA
+"좌측 내경동맥 협착/뇌실질 위축","Details of the complaint","location","Do you feel discomfort or pain in specific areas of your head or neck?","머리나 목 특정 부위에서 불편함이나 통증을 느끼십니까?",215,"gpt-4-turbo",NA,NA
+"좌측 내경동맥 협착/뇌실질 위축","Details of the complaint","severity","How severe would you rate the symptoms on a scale from 1 to 10?","증상의 심각성을 1에서 10까지의 척도로 어떻게 평가하시겠습니까?",216,"gpt-4-turbo",NA,NA
+"좌측 내경동맥 협착/뇌실질 위축","Details of the complaint","timing","Are the symptoms continuous, or do they come and go?","증상이 지속되나요, 아니면 왔다 갔다 하나요?",217,"gpt-4-turbo",NA,NA
+"좌측 내경동맥 협착/뇌실질 위축","Details of the complaint","aggravating factors","Are there specific activities or situations that worsen your symptoms?","증상을 악화시키는 특정 활동이나 상황이 있습니까?",218,"gpt-4-turbo",NA,NA
+"좌측 내경동맥 협착/뇌실질 위축","Review of systems","neurological","Have you experienced any changes in your speech, vision, or balance?","말하기, 시력, 혹은 균형 감각에 변화가 있었습니까?",219,"gpt-4-turbo",NA,NA
+"좌측 내경동맥 협착/뇌실질 위축","Review of systems","cognitive","Have you noticed any recent changes in memory or other cognitive functions?","최근에 기억력이나 다른 인지 기능의 변화를 느꼈습니까?",220,"gpt-4-turbo",NA,NA
+"좌측 내경동맥 협착/뇌실질 위축","Review of systems","symptoms","Do you experience frequent headaches, and if so, can you describe the type?","자주 두통을 경험하시나요? 있다면, 그 유형을 설명해 주실 수 있습니까?",221,"gpt-4-turbo",NA,NA
+"좌측 내경동맥 협착/뇌실질 위축","Review of systems","functional impact","Has there been a noticeable impact on your daily activities or work due to your symptoms?","증상으로 인해 일상 활동이나 업무에 눈에 띄는 영향이 있었습니까?",222,"gpt-4-turbo",NA,NA
+"상세불명의 척주측만증","Details of the complaint","location","Do you feel pain in a specific area of your spine?","척추의 특정 부위에 통증을 느끼십니까?",223,"gpt-4-turbo",NA,NA
+"상세불명의 척주측만증","Details of the complaint","severity","How severe is the pain on a scale from 1 to 10?","통증의 심각성을 1에서 10까지의 척도로 어떻게 평가하시겠습니까?",224,"gpt-4-turbo",NA,NA
+"상세불명의 척주측만증","Details of the complaint","timing","Is the pain worse at a specific time of day?","하루 중 특정 시간에 통증이 더 심합니까?",225,"gpt-4-turbo",NA,NA
+"상세불명의 척주측만증","Details of the complaint","associated symptoms","Have you experienced any numbness or tingling along with the curvature?","측만증과 함께 저림이나 따끔거림을 경험한 적이 있습니까?",226,"gpt-4-turbo",NA,NA
+"상세불명의 척주측만증","Details of the complaint","aggravating factors","Are there specific activities or positions that increase your pain or discomfort?","통증이나 불편함을 증가시키는 특정 활동이나 자세가 있습니까?",227,"gpt-4-turbo",NA,NA
+"상세불명의 척주측만증","Review of systems","posture","Have you noticed any changes in your posture or the way you walk?","자세나 걸음걸이에 변화를 느낀 적이 있습니까?",228,"gpt-4-turbo",NA,NA
+"상세불명의 척주측만증","Review of systems","mobility","Has the curvature affected your ability to perform daily activities?","측만증이 일상 활동 수행 능력에 영향을 미쳤습니까?",229,"gpt-4-turbo",NA,NA
+"CA-125>L 197 w/l 2314 e 21","Details of the complaint","severity","Have you experienced any worsening of symptoms recently?","최근 증상이 악화된 적이 있습니까?",230,"gpt-4-turbo",NA,NA
+"CA-125>L 197 w/l 2314 e 21","Review of systems","abdominal","Have you felt any abdominal pain or discomfort?","복통이나 불편함을 느낀 적이 있습니까?",231,"gpt-4-turbo",NA,NA
+"CA-125>L 197 w/l 2314 e 21","Review of systems","gastrointestinal","Have you experienced any changes in appetite or unusual weight loss?","식욕 변화나 평소와 다른 체중 감소를 경험한 적이 있습니까?",232,"gpt-4-turbo",NA,NA
+"CA-125>L 197 w/l 2314 e 21","Review of systems","urinary","Have you noticed any changes in your urinary habits or discomfort while urinating?","소변 습관의 변화나 배뇨 시 불편함을 느낀 적이 있습니까?",233,"gpt-4-turbo",NA,NA
+"상세불명의 자궁의 평활근종 D259","Details of the complaint","severity","How severe is your pelvic pain on a scale of 1 to 10?","통증의 심각성을 1부터 10까지의 척도로 어떻게 평가하시나요?",234,"gpt-4-turbo",NA,NA
+"상세불명의 자궁의 평활근종 D259","Details of the complaint","timing","Do you notice increased pelvic pain during your menstrual cycle?","생리 기간 중 골반 통증이 심해지나요?",235,"gpt-4-turbo",NA,NA
+"상세불명의 자궁의 평활근종 D259","Details of the complaint","timing","Do you experience heavy menstrual bleeding?","생리 출혈이 과도하게 많습니까?",236,"gpt-4-turbo",NA,NA
+"상세불명의 자궁의 평활근종 D259","Details of the complaint","timing","Have you experienced any irregular menstrual cycles?","생리주기가 불규칙한 적이 있습니까?",237,"gpt-4-turbo",NA,NA
+"상세불명의 자궁의 평활근종 D259","Review of systems","urinary symptoms","Have you experienced frequent urination?","자주 소변을 보게 됩니까?",238,"gpt-4-turbo",NA,NA
+"상세불명의 자궁의 평활근종 D259","Review of systems","gastrointestinal symptoms","Have you had difficulty with bowel movements?","배변 시 불편함을 겪은 적이 있나요?",239,"gpt-4-turbo",NA,NA
+"상세불명의 자궁의 평활근종 D259","Details of the complaint","associated symptoms","Have you noticed any changes in your weight recently?","최근 몸무게의 변화를 느낀 적이 있나요?",240,"gpt-4-turbo",NA,NA
+"폐경 및 여성의 갱년기상태 N951, 자궁경부의 염증성 질환 N72, 성교후 및 접촉 출혈 N930, 유방의 행동양식 불명 또는 미상의 신생물/왼쪽 D4861, 상세불명의 자궁의 평활근종 D259","Details of the complaint","associated symptoms","Have you experienced any hot flashes, night sweats, or mood swings?","안면 홍조, 야간 발한 또는 기분 변화를 경험한 적이 있습니까?",241,"gpt-4-turbo",NA,NA
+"폐경 및 여성의 갱년기상태 N951, 자궁경부의 염증성 질환 N72, 성교후 및 접촉 출혈 N930, 유방의 행동양식 불명 또는 미상의 신생물/왼쪽 D4861, 상세불명의 자궁의 평활근종 D259","Details of the complaint","severity","How severe is the pain during or after sexual intercourse?","성교 중이나 성교 후 통증의 정도는 어떻습니까?",242,"gpt-4-turbo",NA,NA
+"폐경 및 여성의 갱년기상태 N951, 자궁경부의 염증성 질환 N72, 성교후 및 접촉 출혈 N930, 유방의 행동양식 불명 또는 미상의 신생물/왼쪽 D4861, 상세불명의 자궁의 평활근종 D259","Review of systems","reproductive system","Have you noticed any irregular vaginal bleeding or discharge?","비정상적인 질 출혈이나 분비물을 발견한 적이 있습니까?",243,"gpt-4-turbo",NA,NA
+"폐경 및 여성의 갱년기상태 N951, 자궁경부의 염증성 질환 N72, 성교후 및 접촉 출혈 N930, 유방의 행동양식 불명 또는 미상의 신생물/왼쪽 D4861, 상세불명의 자궁의 평활근종 D259","Review of systems","breast","Have you found any lumps or changes in the texture of your breasts?","유방에 혹 또는 질감의 변화를 발견한 적이 있습니까?",244,"gpt-4-turbo",NA,NA
+"폐경 및 여성의 갱년기상태 N951, 자궁경부의 염증성 질환 N72, 성교후 및 접촉 출혈 N930, 유방의 행동양식 불명 또는 미상의 신생물/왼쪽 D4861, 상세불명의 자궁의 평활근종 D259","Details of the complaint","location","Do you experience any specific localized pain or discomfort in the pelvic area?","골반 부위에 특정한 국소적 통증이나 불편함이 있습니까?",245,"gpt-4-turbo",NA,NA
+"기타 명시된 폐경 및 폐경전후 장애 N958","Details of the complaint","severity","How severe are your symptoms related to menopause?","폐경과 관련된 증상의 심각성은 어느 정도입니까?",246,"gpt-4-turbo",NA,NA
+"기타 명시된 폐경 및 폐경전후 장애 N958","Details of the complaint","timing","When did you first notice symptoms related to menopause?","폐경 관련 증상을 처음 언제 눈치채셨습니까?",247,"gpt-4-turbo",NA,NA
+"기타 명시된 폐경 및 폐경전후 장애 N958","Details of the complaint","aggravating factors","Have you noticed anything in particular that worsens your menopausal symptoms?","폐경 증상을 악화시키는 특별한 것을 눈치채신 적이 있습니까?",248,"gpt-4-turbo",NA,NA
+"기타 명시된 폐경 및 폐경전후 장애 N958","Review of systems","emotional wellbeing","Have you experienced mood swings, anxiety, or depression during this period?","이 기간 동안 기분 변화, 불안 혹은 우울을 경험하셨습니까?",249,"gpt-4-turbo",NA,NA
+"기타 명시된 폐경 및 폐경전후 장애 N958","Review of systems","sleep pattern","How has your sleep pattern changed since experiencing menopausal symptoms?","폐경 증상을 겪은 후 수면 패턴에 어떤 변화가 있었습니까?",250,"gpt-4-turbo",NA,NA
+"기타 명시된 폐경 및 폐경전후 장애 N958","Review of systems","thermal sensation","Do you experience hot flashes or changes in body temperature regulation?","열감이나 체온 조절의 변화를 경험하셨습니까?",251,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","History of the present illness","duration since diagnosis","How long has it been since you were first diagnosed with your current condition?","현재 진단받은 상태가 시작된 지 얼마나 되었습니까?",252,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Details of the complaint","location","Can you specify the exact location of your symptoms?","증상의 정확한 위치를 지정할 수 있습니까?",253,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Details of the complaint","severity","On a scale from 1 to 10, how would you rate the severity of your symptoms?","1부터 10까지의 척도로 증상의 심각성을 어떻게 평가하시겠습니까?",254,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Details of the complaint","timing","Do your symptoms appear continuously or intermittently?","증상은 지속적으로 나타나나요, 아니면 간헐적으로 나타나나요?",255,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Details of the complaint","aggravating factors","Are there specific activities, foods, or situations that worsen your symptoms?","증상을 악화시키는 특정 활동, 음식 또는 상황이 있습니까?",256,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Details of the complaint","associated symptoms","Are there any other symptoms associated with your main complaint?","주요 불만과 관련된 다른 증상이 있습니까?",257,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Past medical and surgical history","specific conditions","Have you been diagnosed with any other medical conditions in the past?","과거에 다른 의학적 질환 진단을 받은 적이 있습니까?",258,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Past medical and surgical history","surgeries","Have you undergone any surgeries?","수술을 받은 적이 있습니까?",259,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Allergies","drugs","Do you have any known drug allergies?","알려진 약물 알레르기가 있습니까?",260,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Allergies","foods","Do you have any known food allergies?","알려진 음식 알레르기가 있습니까?",261,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Current medications","list of medications","What medications are you currently taking?","현재 복용 중인 약물이 무엇입니까?",262,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Family medical history","family diseases","Are there any significant diseases that run in your family?","가족 중에 주요 질환이 있습니까?",263,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Lifestyle details","alcohol and tobacco use","Do you consume alcohol or use tobacco products?","알코올을 섭취하거나 담배 제품을 사용하십니까?",264,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Lifestyle details","weight changes","Have you experienced any significant weight changes recently?","최근에 체중 변화가 있었습니까?",265,"gpt-4-turbo",NA,NA
+"환자 상태 및 의뢰내용","Review of systems","general symptoms","Are you experiencing any other symptoms that we haven't discussed?","아직 논의하지 않은 다른 증상이 있습니까?",266,"gpt-4-turbo",NA,NA
+"G560 손목터널증후군, M5422 경추통 및 경부의증","Details of the complaint","severity","How severe is the pain in your wrist and neck on a scale of 1 to 10?","손목과 목의 통증이 1에서 10 사이로 얼마나 심합니까?",267,"gpt-4-turbo",NA,NA
+"G560 손목터널증후군, M5422 경추통 및 경부의증","Details of the complaint","timing","Do you experience the pain in your wrist and neck more during the day or at night?","손목과 목의 통증은 주로 낮에 더 심하나요, 아니면 밤에 더 심하나요?",268,"gpt-4-turbo",NA,NA
+"G560 손목터널증후군, M5422 경추통 및 경부의증","Details of the complaint","aggravating factors","What activities exacerbate your wrist and neck pain?","어떤 활동을 할 때 손목과 목의 통증이 더 심해집니까?",269,"gpt-4-turbo",NA,NA
+"G560 손목터널증후군, M5422 경추통 및 경부의증","Review of systems","neurological","Have you noticed any numbness, tingling, or weakness in your hands or fingers?","손이나 손가락에 감각이 무디어지거나, 저릿저릿하거나, 약해진 적이 있습니까?",270,"gpt-4-turbo",NA,NA
+"G560 손목터널증후군, M5422 경추통 및 경부의증","Review of systems","neurological","Do you experience any unusual sensations or changes in feeling in your arms or shoulders?","팔이나 어깨에 평소와 다른 감각이나 느낌의 변화를 경험한 적이 있습니까?",271,"gpt-4-turbo",NA,NA
+"G560 손목터널증후군, M5422 경추통 및 경부의증","Review of systems","functional status","Has the pain in your wrist or neck affected your daily activities or ability to work?","손목이나 목의 통증이 일상 활동이나 일하는 능력에 영향을 미쳤습니까?",272,"gpt-4-turbo",NA,NA
+"위의 체부의 악성 신생물/ 상세불명 C1629","Details of the complaint","severity","How would you rate the pain in your upper abdomen on a scale from 1 to 10?","위 복부의 통증을 1부터 10까지의 척도로 어떻게 평가하시겠습니까?",273,"gpt-4-turbo",NA,NA
+"위의 체부의 악성 신생물/ 상세불명 C1629","Details of the complaint","timing","Do you experience pain more frequently after meals or on an empty stomach?","식후 또는 공복일 때 더 자주 통증을 느끼십니까?",274,"gpt-4-turbo",NA,NA
+"위의 체부의 악성 신생물/ 상세불명 C1629","Details of the complaint","aggravating factors","Are there specific foods or activities that increase your abdominal pain?","특정 음식이나 활동으로 인해 복통이 증가합니까?",275,"gpt-4-turbo",NA,NA
+"위의 체부의 악성 신생물/ 상세불명 C1629","Review of systems","digestive system","Have you experienced any recent changes in appetite or unintended weight loss?","최근 식욕 변화나 의도하지 않은 체중 감소를 경험하셨습니까?",276,"gpt-4-turbo",NA,NA
+"위의 체부의 악성 신생물/ 상세불명 C1629","Review of systems","general symptoms","Have you noticed any unusual fatigue or weakness?","평소와 다른 피로나 약함을 느끼셨습니까?",277,"gpt-4-turbo",NA,NA
+"위의 체부의 악성 신생물/ 상세불명 C1629","Review of systems","digestive system","Have you had any nausea, vomiting, or changes in bowel habits?","메스꺼움, 구토 또는 배변 습관의 변화가 있습니까?",278,"gpt-4-turbo",NA,NA
+"급성 C형간염 B171","Details of the complaint","symptom onset","When did you first notice symptoms related to hepatitis C, such as fatigue or jaundice?","피로나 황달과 같은 C형 간염 관련 증상을 처음으로 눈치챈 시기는 언제입니까?",279,"gpt-4-turbo",NA,NA
+"급성 C형간염 B171","Review of systems","gastrointestinal","Have you experienced any abdominal pain or unusual bowel movements?","복통이나 평소와 다른 배변 활동을 경험한 적이 있습니까?",280,"gpt-4-turbo",NA,NA
+"급성 C형간염 B171","Lifestyle details","risk factors","Have you had any recent exposures to risky situations such as blood transfusions or unsterile needle use?","최근에 수혈이나 비위생적인 주사 바늘 사용과 같은 위험한 상황에 노출된 적이 있습니까?",281,"gpt-4-turbo",NA,NA
+"혼합성 고지질혈증 E782","Details of the complaint","associated symptoms","Have you noticed any symptoms such as xanthomas or severe chest pain?","황색종이나 심한 가슴 통증과 같은 증상을 느낀 적이 있습니까?",282,"gpt-4-turbo",NA,NA
+"혼합성 고지질혈증 E782","Family medical history","genetic predisposition","Is there a history of lipid disorders or cardiovascular disease in your family?","가족 중에 지질 장애나 심혈관 질환이 있는 사람이 있습니까?",283,"gpt-4-turbo",NA,NA
+"혼합성 고지질혈증 E782","Review of systems","cardiovascular","Have you experienced symptoms like palpitations or shortness of breath?","심계항진이나 숨가쁨과 같은 증상을 경험한 적이 있습니까?",284,"gpt-4-turbo",NA,NA
+"담낭염을 동반한 담관결석 분류기호 K804","Details of the complaint","location","Can you describe where you feel the pain or discomfort?","통증이나 불편함을 느끼는 위치를 설명해 주실 수 있으십니까?",285,"gpt-4-turbo",NA,NA
+"담낭염을 동반한 담관결석 분류기호 K804","Details of the complaint","severity","On a scale from 1 to 10, how would you rate the pain you're experiencing?","1에서 10까지의 척도로, 현재 겪고 있는 통증의 정도를 평가해 주십시오.",286,"gpt-4-turbo",NA,NA
+"담낭염을 동반한 담관결석 분류기호 K804","Details of the complaint","timing","When do you usually experience this pain or discomfort?","보통 언제 이 통증이나 불편함을 경험하십니까?",287,"gpt-4-turbo",NA,NA
+"담낭염을 동반한 담관결석 분류기호 K804","Details of the complaint","aggravating factors","Are there specific foods or activities that make your symptoms worse?","증상을 악화시키는 특정 음식이나 활동이 있습니까?",288,"gpt-4-turbo",NA,NA
+"담낭염을 동반한 담관결석 분류기호 K804","Details of the complaint","associated symptoms","Have you experienced fever, jaundice, or changes in stool color?","열, 황달 또는 변 색깔의 변화를 경험한 적이 있습니까?",289,"gpt-4-turbo",NA,NA
+"담낭염을 동반한 담관결석 분류기호 K804","Review of systems","digestive","Have you noticed any nausea or vomiting?","구역질이나 구토를 느낀 적이 있습니까?",290,"gpt-4-turbo",NA,NA
+"담낭염을 동반한 담관결석 분류기호 K804","Review of systems","digestive","Have there been any recent changes in your appetite or weight?","최근 식욕이나 체중에 변화가 있었습니까?",291,"gpt-4-turbo",NA,NA
+"좌측 유방의 미세석회 소견 R92, 달리 명시되지 않은 유방의 결절 N63","Details of the complaint","location","Is the calcification or nodule localized to only one area of your breast?","석회화 또는 결절이 유방의 한 부분에만 국한되어 있습니까?",292,"gpt-4-turbo",NA,NA
+"좌측 유방의 미세석회 소견 R92, 달리 명시되지 않은 유방의 결절 N63","Details of the complaint","severity","Have you noticed any changes in the size or texture of the nodule or calcified area?","결절이나 석회화된 부위의 크기나 질감에 변화를 느꼈습니까?",293,"gpt-4-turbo",NA,NA
+"좌측 유방의 미세석회 소견 R92, 달리 명시되지 않은 유방의 결절 N63","Details of the complaint","aggravating factors","Does any activity or specific situation exacerbate discomfort in your breast?","어떤 활동이나 특정 상황에서 유방의 불편함이 심해지나요?",294,"gpt-4-turbo",NA,NA
+"좌측 유방의 미세석회 소견 R92, 달리 명시되지 않은 유방의 결절 N63","Details of the complaint","timing","When did you first notice these breast changes?","유방의 변화를 처음 언제 눈치채셨나요?",295,"gpt-4-turbo",NA,NA
+"좌측 유방의 미세석회 소견 R92, 달리 명시되지 않은 유방의 결절 N63","Details of the complaint","associated symptoms","Have you experienced any discharge or unusual pain in your breasts?","유방에서 분비물이 나오거나 평소와 다른 통증을 느낀 적이 있습니까?",296,"gpt-4-turbo",NA,NA
+"좌측 유방의 미세석회 소견 R92, 달리 명시되지 않은 유방의 결절 N63","Review of systems","overall health","Have you noticed any unintended weight loss, fever, or fatigue recently?","최근 체중 감소, 발열, 피로감 등을 느낀 적이 있습니까?",297,"gpt-4-turbo",NA,NA
+"만성 비염, posterior choanal stenosis(B)","Details of the complaint","severity","How severe is your nasal congestion?","코 막힘이 얼마나 심합니까?",298,"gpt-4-turbo",NA,NA
+"만성 비염, posterior choanal stenosis(B)","Details of the complaint","timing","Do you experience nasal congestion more frequently during certain times of the day or year?","하루 중 또는 일년 중 특정 시간에 코 막힘이 더 자주 발생합니까?",299,"gpt-4-turbo",NA,NA
+"만성 비염, posterior choanal stenosis(B)","Details of the complaint","associated symptoms","Have you been experiencing headaches or facial pain?","두통이나 안면 통증을 경험하고 계십니까?",300,"gpt-4-turbo",NA,NA
+"만성 비염, posterior choanal stenosis(B)","Details of the complaint","aggravating factors","Are there any environmental or other factors that worsen your nasal symptoms?","환경적 또는 기타 요소들로 인해 코 증상이 악화되는 경우가 있습니까?",301,"gpt-4-turbo",NA,NA
+"만성 비염, posterior choanal stenosis(B)","Review of systems","respiratory","Do you have difficulty breathing through your nose?","코로 숨쉬기 어려운 적이 있습니까?",302,"gpt-4-turbo",NA,NA
+"만성 비염, posterior choanal stenosis(B)","Review of systems","sensory changes","Have you noticed any changes in your sense of smell?","후각에 변화가 있었습니까?",303,"gpt-4-turbo",NA,NA
+"만성 비염, posterior choanal stenosis(B)","Review of systems","choanal stenosis specific","Do you feel that your nasal passages are narrower than before?","코의 통로가 이전보다 좁아진 느낌이 있습니까?",304,"gpt-4-turbo",NA,NA
+"만성 비염, posterior choanal stenosis(B)","Review of systems","choanal stenosis specific","Have you experienced any whistling sound from your nose while breathing?","숨을 쉴 때 코에서 휘파람 소리가 나는 적이 있습니까?",305,"gpt-4-turbo",NA,NA
+"상세불명의 무월경","Details of the complaint","severity","How long have you been experiencing amenorrhea?","무월경을 경험한 기간은 얼마나 되었습니까?",306,"gpt-4-turbo",NA,NA
+"상세불명의 무월경","Review of systems","reproductive","Have you noticed any changes in your body weight or hair distribution?","체중 변화나 체모 분포에 변화가 있었습니까?",307,"gpt-4-turbo",NA,NA
+"상세불명의 무월경","Review of systems","endocrine","Have you experienced symptoms of thyroid dysfunction, such as feeling unusually cold or hot?","갑상선 기능 장애 증상, 예를 들어 평소보다 추위나 더위를 더 많이 느끼는 등의 증상을 경험한 적이 있습니까?",308,"gpt-4-turbo",NA,NA
+"moyamoya disease","Details of the complaint","associated symptoms","Have you experienced any sudden weakness or numbness in your arms or legs?","팔이나 다리에 갑작스럽게 힘이 빠지거나 저림을 느낀 적이 있습니까?",309,"gpt-4-turbo",NA,NA
+"moyamoya disease","Review of systems","neurological","Have you had any episodes of slurred speech, visual disturbances, or difficulty understanding others?","말이 어눌해지거나, 시각 장애, 타인을 이해하는데 어려움을 겪은 적이 있습니까?",310,"gpt-4-turbo",NA,NA
+"moyamoya disease","Review of systems","vascular","Have you ever been diagnosed with narrowed or blocked arteries in other parts of your body?","몸의 다른 부위에 동맥이 좁아지거나 막혔다는 진단을 받은 적이 있습니까?",311,"gpt-4-turbo",NA,NA
+"췌장의 신생물 분류기호 D136","Details of the complaint","associated symptoms","Have you experienced any abdominal pain or discomfort?","복통이나 불편함을 경험한 적이 있습니까?",312,"gpt-4-turbo",NA,NA
+"췌장의 신생물 분류기호 D136","Details of the complaint","associated symptoms","Have you noticed any changes in your appetite or unexpected weight loss?","식욕 변화나 예기치 않은 체중 감소를 느꼈던 적이 있습니까?",313,"gpt-4-turbo",NA,NA
+"췌장의 신생물 분류기호 D136","Details of the complaint","severity","How would you rate the severity of any abdominal pain you've experienced?","겪은 복통의 심각성을 어떻게 평가하시겠습니까?",314,"gpt-4-turbo",NA,NA
+"췌장의 신생물 분류기호 D136","Review of systems","digestive system","Have you experienced any nausea, vomiting, or changes in your bowel habits?","구토, 메스꺼움 또는 배변 습관 변화를 경험한 적이 있습니까?",315,"gpt-4-turbo",NA,NA
+"췌장의 신생물 분류기호 D136","Review of systems","jaundice","Have you noticed any yellowing of your skin or eyes?","피부나 눈의 황변을 느꼈던 적이 있습니까?",316,"gpt-4-turbo",NA,NA
+"췌장의 신생물 분류기호 D136","Details of the complaint","associated symptoms","Have you felt unusually tired or weak lately?","최근 유난히 피곤하거나 약해진 것을 느꼈던 적이 있습니까?",317,"gpt-4-turbo",NA,NA
+"췌장의 신생물 분류기호 D136","Review of systems","digestive system","Have you had any new onset of diabetes or changes in blood sugar control?","새로운 당뇨병 발병이 있었거나 혈당 조절에 변화가 있었습니까?",318,"gpt-4-turbo",NA,NA
+"상세불명의 급성 기관지염 J209, 우상폐 infiltration (+), r/o mass, LLLF 만성기관지염 의심","Details of the complaint","severity","How severe is your cough?","기침이 얼마나 심합니까?",319,"gpt-4-turbo",NA,NA
+"상세불명의 급성 기관지염 J209, 우상폐 infiltration (+), r/o mass, LLLF 만성기관지염 의심","Details of the complaint","timing","Is your cough worse at night or in the morning?","기침이 밤이나 아침에 더 심합니까?",320,"gpt-4-turbo",NA,NA
+"상세불명의 급성 기관지염 J209, 우상폐 infiltration (+), r/o mass, LLLF 만성기관지염 의심","Details of the complaint","associated symptoms","Are you experiencing any shortness of breath?","숨이 차는 증상이 있습니까?",321,"gpt-4-turbo",NA,NA
+"상세불명의 급성 기관지염 J209, 우상폐 infiltration (+), r/o mass, LLLF 만성기관지염 의심","Details of the complaint","associated symptoms","Have you noticed any wheezing when breathing?","호흡할 때 쌕쌕거림이 있습니까?",322,"gpt-4-turbo",NA,NA
+"상세불명의 급성 기관지염 J209, 우상폐 infiltration (+), r/o mass, LLLF 만성기관지염 의심","Details of the complaint","aggravating factors","Does anything in particular seem to trigger your cough?","기침을 유발하는 특별한 원인이 있습니까?",323,"gpt-4-turbo",NA,NA
+"상세불명의 급성 기관지염 J209, 우상폐 infiltration (+), r/o mass, LLLF 만성기관지염 의심","Review of systems","fever","Have you had any fever?","열이 있었습니까?",324,"gpt-4-turbo",NA,NA
+"상세불명의 급성 기관지염 J209, 우상폐 infiltration (+), r/o mass, LLLF 만성기관지염 의심","Review of systems","weight loss","Have you experienced any unexplained weight loss recently?","최근에 설명할 수 없는 체중 감소가 있었습니까?",325,"gpt-4-turbo",NA,NA
+"상세불명의 급성 기관지염 J209, 우상폐 infiltration (+), r/o mass, LLLF 만성기관지염 의심","Review of systems","chest pain","Do you have any chest pain or tightness?","가슴 통증이나 답답함이 있습니까?",326,"gpt-4-turbo",NA,NA
+"상세불명의 급성 기관지염 J209, 우상폐 infiltration (+), r/o mass, LLLF 만성기관지염 의심","Review of systems","general symptoms","Have you experienced any fatigue or malaise?","피로감이나 몸살감이 있었습니까?",327,"gpt-4-turbo",NA,NA
+"수소 한국질병 분류기호 G438 기타 편두통, 상병명 두통 R51","Details of the complaint","location","Is your headache located on one side of your head, or is it affecting both sides?","두통이 머리의 한쪽에만 있습니까, 아니면 양쪽 모두에 영향을 미칩니까?",328,"gpt-4-turbo",NA,NA
+"수소 한국질병 분류기호 G438 기타 편두통, 상병명 두통 R51","Details of the complaint","severity","On a scale from 1 to 10, how would you rate the pain of your headache?","1에서 10까지의 척도로, 두통의 통증을 어떻게 평가하시겠습니까?",329,"gpt-4-turbo",NA,NA
+"수소 한국질병 분류기호 G438 기타 편두통, 상병명 두통 R51","Details of the complaint","timing","Do your headaches occur at a particular time of day?","두통이 특정 시간에 발생합니까?",330,"gpt-4-turbo",NA,NA
+"수소 한국질병 분류기호 G438 기타 편두통, 상병명 두통 R51","Details of the complaint","aggravating factors","Are there specific activities or situations that seem to trigger your headaches?","두통을 유발하는 것 같은 특정 활동이나 상황이 있습니까?",331,"gpt-4-turbo",NA,NA
+"수소 한국질병 분류기호 G438 기타 편두통, 상병명 두통 R51","Details of the complaint","associated symptoms","Have you experienced any nausea, vomiting, or light sensitivity along with your headaches?","두통과 함께 메스꺼움, 구토 또는 빛에 대한 민감성을 경험한 적이 있습니까?",332,"gpt-4-turbo",NA,NA
+"수소 한국질병 분류기호 G438 기타 편두통, 상병명 두통 R51","Review of systems","neurological","Have you noticed any changes in your vision or hearing when you have headaches?","두통이 있을 때 시력이나 청력에 변화를 느낀 적이 있습니까?",333,"gpt-4-turbo",NA,NA
+"수소 한국질병 분류기호 G438 기타 편두통, 상병명 두통 R51","Review of systems","gastrointestinal","Does your headache affect your appetite or digestion?","두통이 식욕이나 소화에 영향을 미칩니까?",334,"gpt-4-turbo",NA,NA
+"수소 한국질병 분류기호 G438 기타 편두통, 상병명 두통 R51","Lifestyle details","stress levels","Have you been experiencing higher levels of stress lately?","최근에 스트레스를 많이 받고 계십니까?",335,"gpt-4-turbo",NA,NA
+"기립성 저혈압, 중추기원의 현기증","Details of the complaint","timing","Do you feel dizzy when you stand up suddenly?","갑자기 일어설 때 어지럽다고 느끼십니까?",336,"gpt-4-turbo",NA,NA
+"기립성 저혈압, 중추기원의 현기증","Details of the complaint","severity","How severe would you rate your dizziness on a scale from 1 to 10?","어지러움을 1에서 10까지로 평가한다면 얼마나 심하다고 생각하십니까?",337,"gpt-4-turbo",NA,NA
+"기립성 저혈압, 중추기원의 현기증","Details of the complaint","associated symptoms","Do you experience any other symptoms such as nausea or blurred vision along with dizziness?","현기증과 함께 구토나 시야 흐림과 같은 다른 증상이 있습니까?",338,"gpt-4-turbo",NA,NA
+"기립성 저혈압, 중추기원의 현기증","Past medical history","chronic conditions","Do you have any neurological or cardiovascular diseases?","신경학적 또는 심혈관 질환을 앓고 계십니까?",339,"gpt-4-turbo",NA,NA
+"기립성 저혈압, 중추기원의 현기증","Review of systems","neurological symptoms","Have you noticed any changes in your hearing or ringing in the ears?","청력에 변화나 귀울림을 느꼈던 적이 있습니까?",340,"gpt-4-turbo",NA,NA
+"기립성 저혈압, 중추기원의 현기증","Review of systems","cardiovascular","Do you experience palpitations or chest discomfort?","심계항진이나 가슴 불편감을 경험하신 적이 있습니까?",341,"gpt-4-turbo",NA,NA
+"기립성 저혈압, 중추기원의 현기증","Review of systems","general symptoms","Have you had any significant changes in your sleep pattern?","수면 패턴에 중요한 변화가 있었습니까?",342,"gpt-4-turbo",NA,NA
+"Ocular laceration without prolapse or loss of intraocular tissue S053","Details of the complaint","location","Can you specify which eye is affected?","어느 눈이 영향을 받았습니까?",343,"gpt-4-turbo",NA,NA
+"Ocular laceration without prolapse or loss of intraocular tissue S053","Details of the complaint","severity","On a scale of 1 to 10, how would you rate the pain in your affected eye?","1부터 10까지의 척도로, 영향받은 눈의 통증을 어떻게 평가하시겠습니까?",344,"gpt-4-turbo",NA,NA
+"Ocular laceration without prolapse or loss of intraocular tissue S053","Details of the complaint","timing","When did the eye injury occur?","눈 부상이 언제 발생했습니까?",345,"gpt-4-turbo",NA,NA
+"Ocular laceration without prolapse or loss of intraocular tissue S053","Details of the complaint","aggravating factors","Are there certain activities or situations that worsen the eye discomfort?","눈 불편함을 악화시키는 특정 활동이나 상황이 있습니까?",346,"gpt-4-turbo",NA,NA
+"Ocular laceration without prolapse or loss of intraocular tissue S053","Details of the complaint","associated symptoms","Have you experienced any light sensitivity or blurring of vision since the injury?","부상 이후 빛에 민감하거나 시력이 흐려진 적이 있습니까?",347,"gpt-4-turbo",NA,NA
+"Ocular laceration without prolapse or loss of intraocular tissue S053","Review of systems","visual changes","Have you noticed any changes in your color vision or depth perception?","색상 인지 또는 깊이 인식에 변화가 있었습니까?",348,"gpt-4-turbo",NA,NA
+"I251 상병명 관상동맥 경화증","Details of the complaint","severity","How would you describe the severity of any chest pain or discomfort you experience?","가슴 통증이나 불편함의 정도를 어떻게 표현하시겠습니까?",349,"gpt-4-turbo",NA,NA
+"I251 상병명 관상동맥 경화증","Details of the complaint","timing","Do you notice the chest pain more during rest or physical activity?","휴식 중이나 신체 활동 중에 가슴 통증을 더 많이 느끼십니까?",350,"gpt-4-turbo",NA,NA
+"I251 상병명 관상동맥 경화증","Details of the complaint","aggravating factors","Are there specific activities or situations that exacerbate your chest pain?","가슴 통증을 악화시키는 구체적인 활동이나 상황이 있습니까?",351,"gpt-4-turbo",NA,NA
+"I251 상병명 관상동맥 경화증","Review of systems","cardiovascular","Have you experienced any episodes of palpitations or abnormal heart rhythms?","심계항진이나 비정상적인 심장 박동을 경험한 적이 있습니까?",352,"gpt-4-turbo",NA,NA
+"I251 상병명 관상동맥 경화증","Review of systems","respiratory","Do you experience shortness of breath during mild activities or while resting?","가벼운 활동 중이나 휴식 중에 숨가쁨을 느끼시나요?",353,"gpt-4-turbo",NA,NA
+"I251 상병명 관상동맥 경화증","Review of systems","fatigue","Have you noticed a recent increase in fatigue or decreased energy levels?","최근에 피로감 증가나 에너지 수준 감소를 느끼셨습니까?",354,"gpt-4-turbo",NA,NA
+"I251 상병명 관상동맥 경화증","Review of systems","dizziness","Have there been any incidents of sudden dizziness, fainting, or lightheadedness?","갑자기 어지럼증, 기절, 혹은 현기증이 발생한 적이 있습니까?",355,"gpt-4-turbo",NA,NA
+"위암 NOS, 상세불명 C16.99","Details of the complaint","severity","How would you rate the pain or discomfort you experience in your stomach area on a scale from 1 to 10?","1에서 10까지의 척도로 볼 때, 위 부위에서 느끼는 통증이나 불편함을 어느 정도로 평가하시겠습니까?",356,"gpt-4-turbo",NA,NA
+"위암 NOS, 상세불명 C16.99","Details of the complaint","timing","Do you notice the stomach pain or discomfort more before or after meals?","식사 전후 중 언제 위 통증이나 불편함을 더 많이 느끼십니까?",357,"gpt-4-turbo",NA,NA
+"위암 NOS, 상세불명 C16.99","Review of systems","digestive","Have you experienced any vomiting, and if so, what is the frequency and appearance?","구토를 경험한 적이 있습니까? 있다면 빈도와 양상은 어떻습니까?",358,"gpt-4-turbo",NA,NA
+"위암 NOS, 상세불명 C16.99","Review of systems","weight loss","Have you noticed any unintentional weight loss recently?","최근에 의도하지 않은 체중 감소를 경험하셨습니까?",359,"gpt-4-turbo",NA,NA
+"위암 NOS, 상세불명 C16.99","Review of systems","appetite","Have you experienced a decrease in appetite?","식욕 감소를 경험하신 적이 있습니까?",360,"gpt-4-turbo",NA,NA
+"위암 NOS, 상세불명 C16.99","Details of the complaint","associated symptoms","Have you noticed any black or tarry stools?","검은색 또는 타르 같은 변을 보신 적이 있습니까?",361,"gpt-4-turbo",NA,NA
+"위암 NOS, 상세불명 C16.99","Review of systems","fatigue","Have you been feeling unusually tired or fatigued?","평소보다 피로함을 느끼거나 기운이 없다고 느낀 적이 있습니까?",362,"gpt-4-turbo",NA,NA
+"위암 NOS, 상세불명 C16.99","Review of systems","anemia","Have you been diagnosed with anemia or experienced symptoms related to it?","빈혈 진단을 받으셨거나 관련 증상을 경험하신 적이 있습니까?",363,"gpt-4-turbo",NA,NA
+"위암 NOS, 상세불명 C16.99","Past medical and surgical history","previous stomach issues","Have you had any previous stomach or gastrointestinal surgeries or issues?","과거에 위장 또는 소화기 관련 수술이나 문제점을 겪은 적이 있습니까?",364,"gpt-4-turbo",NA,NA
+"기타 명시된 추간판전위 M51.2","Details of the complaint","location","Can you specify the exact location where you feel the pain or discomfort?","통증이나 불편함을 느끼는 정확한 위치를 말씀해 주실 수 있습니까?",365,"gpt-4-turbo",NA,NA
+"기타 명시된 추간판전위 M51.2","Details of the complaint","severity","How severe is the pain on a scale from 1 to 10?","1부터 10까지의 척도로 통증의 심각성을 평가해 주실 수 있습니까?",366,"gpt-4-turbo",NA,NA
+"기타 명시된 추간판전위 M51.2","Details of the complaint","timing","Is the pain constant, or does it come and go?","통증이 지속되나요, 아니면 때때로 나타났다가 사라지나요?",367,"gpt-4-turbo",NA,NA
+"기타 명시된 추간판전위 M51.2","Details of the complaint","aggravating factors","Are there specific activities or positions that worsen the pain?","통증을 악화시키는 특정 활동이나 자세가 있습니까?",368,"gpt-4-turbo",NA,NA
+"기타 명시된 추간판전위 M51.2","Details of the complaint","associated symptoms","Have you experienced any numbness or tingling along with the pain?","통증과 함께 저림이나 감각 이상을 경험한 적이 있습니까?",369,"gpt-4-turbo",NA,NA
+"기타 명시된 추간판전위 M51.2","Review of systems","neurologic","Do you have any weakness or difficulty moving any part of your body?","신체의 어떤 부분을 움직이기 어렵거나 약함을 느낀 적이 있습니까?",370,"gpt-4-turbo",NA,NA
+"기타 명시된 추간판전위 M51.2","Review of systems","gastrointestinal","Have you experienced any changes in bladder or bowel control?","방광이나 대장의 조절에 변화가 있었습니까?",371,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물","Details of the complaint","location","Do you feel any lumps or swelling in the neck area?","목 부위에 혹이나 부종을 느끼신 적이 있습니까?",372,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물","Details of the complaint","associated symptoms","Have you experienced any changes in your voice or difficulty swallowing?","목소리 변화나 삼키기 어려움을 경험하신 적이 있습니까?",373,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물","Review of systems","metabolic","Have you noticed any unexpected weight loss or weight gain?","예기치 않은 체중 감소나 체중 증가를 느끼신 적이 있습니까?",374,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물","Review of systems","neurological","Have you experienced any abnormal sweating or heat intolerance?","비정상적인 발한이나 열내성에 문제가 있었던 적이 있습니까?",375,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물","Review of systems","cardiovascular","Have you had any palpitations or abnormal heart rhythms?","심계항진이나 이상 심장 리듬을 느끼신 적이 있습니까?",376,"gpt-4-turbo",NA,NA
+"K7419 간경화증, 상세불명","Details of the complaint","severity","Have you experienced any worsening of symptoms like abdominal pain or confusion recently?","최근에 복통이나 혼란 같은 증상이 악화된 적이 있습니까?",377,"gpt-4-turbo",NA,NA
+"K7419 간경화증, 상세불명","Details of the complaint","associated symptoms","Have you noticed any yellowing of your skin or eyes?","피부나 눈의 황변을 눈치챈 적이 있습니까?",378,"gpt-4-turbo",NA,NA
+"K7419 간경화증, 상세불명","Details of the complaint","timing","Do your symptoms tend to get worse after eating or during the night?","식사 후나 밤 동안 증상이 악화되는 경향이 있습니까?",379,"gpt-4-turbo",NA,NA
+"K7419 간경화증, 상세불명","Review of systems","gastrointestinal","Have you experienced any nausea or changes in your bowel movements?","메스꺼움 또는 대변 습관의 변화를 경험한 적이 있습니까?",380,"gpt-4-turbo",NA,NA
+"K7419 간경화증, 상세불명","Review of systems","urinary","Have you noticed any changes in the color of your urine?","소변 색상에 변화를 느낀 적이 있습니까?",381,"gpt-4-turbo",NA,NA
+"K7419 간경화증, 상세불명","Details of the complaint","aggravating factors","Are there any activities or foods that seem to trigger or worsen your symptoms?","증상을 유발하거나 악화시키는 것으로 보이는 활동이나 음식이 있습니까?",382,"gpt-4-turbo",NA,NA
+"K7419 간경화증, 상세불명","Past medical history","liver disease","Have you been diagnosed with any other liver diseases or conditions in the past?","과거에 다른 간 질환 또는 상태 진단을 받은 적이 있습니까?",383,"gpt-4-turbo",NA,NA
+"K7419 간경화증, 상세불명","Lifestyle","alcohol use","Can you describe your alcohol intake habits?","알코올 섭취 습관을 설명해 주실 수 있습니까?",384,"gpt-4-turbo",NA,NA
+"K7419 간경화증, 상세불명","Review of systems","vascular","Have you noticed any new or worsening leg swelling?","새로운 다리 부종이나 악화를 느낀 적이 있습니까?",385,"gpt-4-turbo",NA,NA
+"K7419 간경화증, 상세불명","Review of systems","neurological","Have you experienced any episodes of forgetfulness or confusion?","건망증이나 혼란의 에피소드를 경험한 적이 있습니까?",386,"gpt-4-turbo",NA,NA
+"상세불명의 유방암 C50.99, 유방의 상피내 관상암종 D05.19","Details of the complaint","location","In which breast and where exactly did you notice changes or symptoms?","어느 유방에서 어떤 변화나 증상을 눈치채셨나요?",387,"gpt-4-turbo",NA,NA
+"상세불명의 유방암 C50.99, 유방의 상피내 관상암종 D05.19","Details of the complaint","severity","How would you describe the severity of any pain or discomfort in your breast?","유방의 통증이나 불편함의 정도를 어떻게 표현하시겠습니까?",388,"gpt-4-turbo",NA,NA
+"상세불명의 유방암 C50.99, 유방의 상피내 관상암종 D05.19","Details of the complaint","timing","When do you usually experience breast pain or discomfort?","유방 통증이나 불편함은 주로 언제 경험하시나요?",389,"gpt-4-turbo",NA,NA
+"상세불명의 유방암 C50.99, 유방의 상피내 관상암종 D05.19","Details of the complaint","aggravating factors","Are there any activities or conditions that worsen your breast symptoms?","유방 증상을 악화시키는 활동이나 조건이 있나요?",390,"gpt-4-turbo",NA,NA
+"상세불명의 유방암 C50.99, 유방의 상피내 관상암종 D05.19","Details of the complaint","associated symptoms","Have you experienced any nipple discharge or changes in the skin over your breasts?","유두 분비물이나 유방 피부의 변화를 경험하셨나요?",391,"gpt-4-turbo",NA,NA
+"상세불명의 유방암 C50.99, 유방의 상피내 관상암종 D05.19","Review of systems","general health","Have you noticed any unexplained weight loss or fatigue?","설명할 수 없는 체중 감소나 피로를 느끼신 적이 있나요?",392,"gpt-4-turbo",NA,NA
+"상세불명의 유방암 C50.99, 유방의 상피내 관상암종 D05.19","Review of systems","lymphatic","Have you found any unusual swelling or lumps in your armpits?","겨드랑이에 이상한 부기나 혹을 발견하신 적이 있나요?",393,"gpt-4-turbo",NA,NA
+"상병명 상세불명의 가려움 분류기호 L299","Details of the complaint","location","Where is the itching located on your body?","가려움증이 몸의 어느 부분에 있습니까?",394,"gpt-4-turbo",NA,NA
+"상병명 상세불명의 가려움 분류기호 L299","Details of the complaint","severity","How severe is the itching on a scale of 1 to 10?","1부터 10까지의 척도로 가려움의 정도를 어떻게 평가하시겠습니까?",395,"gpt-4-turbo",NA,NA
+"상병명 상세불명의 가려움 분류기호 L299","Details of the complaint","timing","Does the itching occur at specific times of the day or night?","가려움증은 낮이나 밤 특정 시간에 발생하나요?",396,"gpt-4-turbo",NA,NA
+"상병명 상세불명의 가려움 분류기호 L299","Details of the complaint","aggravating factors","Are there any specific activities or exposures that worsen the itching?","가려움증을 악화시키는 특정 활동이나 노출이 있습니까?",397,"gpt-4-turbo",NA,NA
+"상병명 상세불명의 가려움 분류기호 L299","Details of the complaint","associated symptoms","Have you experienced any rash, redness, or bumps along with the itching?","가려움과 함께 발진, 홍조 또는 멍울이 있었습니까?",398,"gpt-4-turbo",NA,NA
+"상병명 상세불명의 가려움 분류기호 L299","Review of systems","skin","Are there any changes in the skin texture or color?","피부의 질감이나 색에 변화가 있었습니까?",399,"gpt-4-turbo",NA,NA
+"고혈압, 고지혈증","Details of the complaint","severity","Have you noticed any recent changes in your blood pressure?","최근 혈압에 변화를 느낀 적이 있습니까?",400,"gpt-4-turbo",NA,NA
+"고혈압, 고지혈증","Details of the complaint","associated symptoms","Have you experienced any headaches, dizziness, or visual disturbances?","두통, 어지럼증, 시각 장애를 경험한 적이 있습니까?",401,"gpt-4-turbo",NA,NA
+"고혈압, 고지혈증","Review of systems","cardiovascular","Do you experience chest pain or shortness of breath?","가슴 통증이나 호흡 곤란을 경험하셨나요?",402,"gpt-4-turbo",NA,NA
+"고혈압, 고지혈증","Lifestyle details","diet","Can you describe your typical daily diet?","일상적인 하루 식단을 설명해 주실 수 있습니까?",403,"gpt-4-turbo",NA,NA
+"고혈압, 고지혈증","Lifestyle details","exercise","How often do you engage in physical activity or exercise?","운동이나 체육 활동은 얼마나 자주 하십니까?",404,"gpt-4-turbo",NA,NA
+"고혈압, 고지혈증","Current medications","medication adherence","Are you taking any medications for your hypertension or hyperlipidemia? If so, how regularly?","고혈압이나 고지혈증 치료를 위해 약을 복용하고 계십니까? 그렇다면, 얼마나 규칙적으로 복용하고 계십니까?",405,"gpt-4-turbo",NA,NA
+"상세불명의 척추병증, 요추부 M4896","Details of the complaint","location","Do you experience pain specifically in the lower back area?","특히 허리 부위에 통증을 느끼시나요?",406,"gpt-4-turbo",NA,NA
+"상세불명의 척추병증, 요추부 M4896","Details of the complaint","severity","On a scale from 1 to 10, how would you rate your lower back pain?","1에서 10까지의 척도로, 요추 통증의 정도를 어떻게 평가하시겠습니까?",407,"gpt-4-turbo",NA,NA
+"상세불명의 척추병증, 요추부 M4896","Details of the complaint","timing","Is your lower back pain constant, or does it come and go?","허리 통증이 지속적인가요, 아니면 가끔 발생하나요?",408,"gpt-4-turbo",NA,NA
+"상세불명의 척추병증, 요추부 M4896","Details of the complaint","aggravating factors","Does any specific activity or position worsen your lower back pain?","특정 활동이나 자세로 인해 요통이 악화되나요?",409,"gpt-4-turbo",NA,NA
+"상세불명의 척추병증, 요추부 M4896","Details of the complaint","associated symptoms","Have you experienced any numbness, tingling, or weakness in your legs?","다리에 저림, 따끔거림 또는 약화를 느낀 적이 있습니까?",410,"gpt-4-turbo",NA,NA
+"상세불명의 척추병증, 요추부 M4896","Review of systems","neurological","Do you have any problems controlling your bladder or bowels?","방광이나 대장을 조절하는 데 문제가 있습니까?",411,"gpt-4-turbo",NA,NA
+"상세불명의 척추병증, 요추부 M4896","Review of systems","mobility","Has there been a recent change in your ability to walk or perform daily activities?","최근에 걷거나 일상 활동을 수행하는 능력에 변화가 있었습니까?",412,"gpt-4-turbo",NA,NA
+"다양한 소화기 질환","Details of the complaint","location","Can you specify the area where you feel the most discomfort?","가장 불편함을 느끼는 부위를 구체적으로 말씀해 주실 수 있으신가요?",413,"gpt-4-turbo",NA,NA
+"다양한 소화기 질환","Details of the complaint","aggravating factors","Are there specific foods or activities that exacerbate your abdominal pain?","복통을 악화시키는 특정 음식이나 활동이 있습니까?",414,"gpt-4-turbo",NA,NA
+"다양한 소화기 질환","Details of the complaint","timing","Does your abdominal pain occur at a particular time of day or after meals?","복통이 하루 중 특정 시간이나 식사 후에 발생하나요?",415,"gpt-4-turbo",NA,NA
+"다양한 소화기 질환","Details of the complaint","associated symptoms","In addition to diarrhea, have you experienced nausea, vomiting, or fever?","설사 외에 메스꺼움, 구토 또는 발열을 경험한 적이 있습니까?",416,"gpt-4-turbo",NA,NA
+"다양한 소화기 질환","Review of systems","general symptoms","Have you experienced any recent fatigue or changes in your appetite?","최근에 피로감이나 식욕 변화를 경험하셨나요?",417,"gpt-4-turbo",NA,NA
+"다양한 소화기 질환","Review of systems","intestinal system","How often do you experience bowel movements, and what is their consistency?","배변 빈도와 배변의 일관성은 어떻습니까?",418,"gpt-4-turbo",NA,NA
+"다양한 소화기 질환","Review of systems","hepatic function","Have you noticed any yellowing of the skin or eyes, which might suggest liver issues?","간 문제를 시사할 수 있는 피부나 눈의 황변을 눈치 챈 적이 있습니까?",419,"gpt-4-turbo",NA,NA
+"다양한 소화기 질환","Review of systems","gastrointestinal","Do you have any history of gastroesophageal reflux or heartburn?","식도역류나 속쓰림의 병력이 있습니까?",420,"gpt-4-turbo",NA,NA
+"상세불명의 노년성 백내장, 오른쪽 H25.90","Details of the complaint","severity","How would you rate the severity of your vision problems on a scale from 1 to 10?","시력 문제의 심각성을 1에서 10까지의 척도로 어떻게 평가하시겠습니까?",421,"gpt-4-turbo",NA,NA
+"상세불명의 노년성 백내장, 오른쪽 H25.90","Details of the complaint","timing","When did you first notice changes in your vision?","시력 변화를 처음 알아차린 시점은 언제입니까?",422,"gpt-4-turbo",NA,NA
+"상세불명의 노년성 백내장, 오른쪽 H25.90","Review of systems","visual changes","Have you experienced any double vision or halos around lights?","이중 시력이나 빛 주위에 후광을 경험한 적이 있습니까?",423,"gpt-4-turbo",NA,NA
+"상세불명의 노년성 백내장, 오른쪽 H25.90","Review of systems","color perception","Have you noticed any changes in how you perceive colors?","색상 인식에 어떤 변화를 느낀 적이 있습니까?",424,"gpt-4-turbo",NA,NA
+"R932 (간 고 에코 결절)","Details of the complaint","severity","Have you experienced any pain in the abdomen or discomfort?","복부 통증이나 불편함을 경험한 적이 있습니까?",425,"gpt-4-turbo",NA,NA
+"R932 (간 고 에코 결절)","Details of the complaint","timing","Is the abdominal pain or discomfort constant or does it come and go?","복부 통증이나 불편함은 지속되나요, 아니면 가끔 나타났다가 사라지나요?",426,"gpt-4-turbo",NA,NA
+"R932 (간 고 에코 결절)","Details of the complaint","aggravating factors","Does anything in particular seem to trigger the abdominal discomfort, such as certain foods or activities?","특정 음식이나 활동 등, 복부 불편함을 유발하는 것이 있습니까?",427,"gpt-4-turbo",NA,NA
+"R932 (간 고 에코 결절)","Review of systems","digestive symptoms","Have you noticed any changes in your appetite or weight?","식욕이나 체중에 변화가 있었습니까?",428,"gpt-4-turbo",NA,NA
+"R932 (간 고 에코 결절)","Review of systems","jaundice","Have you observed any yellowing of your skin or eyes?","피부나 눈이 노랗게 변한 적이 있습니까?",429,"gpt-4-turbo",NA,NA
+"R932 (간 고 에코 결절)","Review of systems","stool changes","Have there been any changes in the color or consistency of your stools?","대변의 색깔이나 일관성에 변화가 있었습니까?",430,"gpt-4-turbo",NA,NA
+"R932 (간 고 에코 결절)","Review of systems","fatigue","Have you felt unusually tired or weak recently?","최근에 평소보다 더 피곤하거나 약해진 적이 있습니까?",431,"gpt-4-turbo",NA,NA
+"인슐린 의존 당뇨병 E10.8, 상세불명의 고지질혈증 E78.5","Details of the complaint","timing","How often do you experience symptoms like increased thirst or frequent urination?","갈증 증가나 빈뇨와 같은 증상을 얼마나 자주 경험하십니까?",432,"gpt-4-turbo",NA,NA
+"인슐린 의존 당뇨병 E10.8, 상세불명의 고지질혈증 E78.5","Details of the complaint","severity","On a scale from 1 to 10, how would you rate any pain or discomfort that might be associated with your conditions?","1부터 10까지의 척도로, 관련 질환으로 인한 통증이나 불편함의 정도를 어떻게 평가하시겠습니까?",433,"gpt-4-turbo",NA,NA
+"인슐린 의존 당뇨병 E10.8, 상세불명의 고지질혈증 E78.5","Review of systems","vision","Have you noticed any changes in your vision, such as blurriness?","시력의 변화, 예를 들어 흐릿한 시력을 느낀 적이 있습니까?",434,"gpt-4-turbo",NA,NA
+"인슐린 의존 당뇨병 E10.8, 상세불명의 고지질혈증 E78.5","Review of systems","cardiovascular","Do you experience any chest pain or palpitations?","가슴 통증이나 심계항진을 경험하신 적이 있습니까?",435,"gpt-4-turbo",NA,NA
+"인슐린 의존 당뇨병 E10.8, 상세불명의 고지질혈증 E78.5","Review of systems","skin","Have you developed any skin conditions such as sores that do not heal quickly?","쉽게 치유되지 않는 상처와 같은 피부 질환이 생긴 적이 있습니까?",436,"gpt-4-turbo",NA,NA
+"인슐린 의존 당뇨병 E10.8, 상세불명의 고지질혈증 E78.5","Review of systems","neurological","Have you experienced any unusual sensations like numbness or tingling in your limbs?","손발에 저림이나 따끔거림과 같은 이상 감각을 느낀 적이 있습니까?",437,"gpt-4-turbo",NA,NA
+"인슐린 의존 당뇨병 E10.8, 상세불명의 고지질혈증 E78.5","Review of systems","diet","Can you describe your typical daily diet?","일상적인 하루 식단을 설명해 주실 수 있습니까?",438,"gpt-4-turbo",NA,NA
+"폐의 진단적 영상 검사의 이상소견 분류기호 R91","Details of the complaint","associated symptoms","Have you experienced any shortness of breath or difficulty breathing?","호흡곤란이나 숨참이 발생했나요?",439,"gpt-4-turbo",NA,NA
+"폐의 진단적 영상 검사의 이상소견 분류기호 R91","Details of the complaint","associated symptoms","Have you noticed any chest pain or discomfort?","가슴 통증이나 불편함을 느꼈나요?",440,"gpt-4-turbo",NA,NA
+"폐의 진단적 영상 검사의 이상소견 분류기호 R91","Details of the complaint","timing","When did you first notice these symptoms?","이러한 증상을 처음 언제 눈치챘나요?",441,"gpt-4-turbo",NA,NA
+"폐의 진단적 영상 검사의 이상소견 분류기호 R91","Review of systems","respiratory","Have you had any cough? If so, is it dry or productive?","기침이 있었나요? 있다면, 건조한 기침인가요, 아니면 가래가 동반되나요?",442,"gpt-4-turbo",NA,NA
+"폐의 진단적 영상 검사의 이상소견 분류기호 R91","Review of systems","general health","Have you experienced any unexplained weight loss?","설명할 수 없는 체중 감소를 경험했나요?",443,"gpt-4-turbo",NA,NA
+"폐의 진단적 영상 검사의 이상소견 분류기호 R91","Review of systems","respiratory","Have you noticed any wheezing or whistling sound while breathing?","호흡 시 쌕쌕거리거나 휘파람 소리가 나나요?",444,"gpt-4-turbo",NA,NA
+"아킬레스 힘줄염 [좌측], 발목의 상세불명 부분의 염좌 및 긴장 [좌측]","Details of the complaint","severity","How would you rate the pain in your left ankle on a scale from 1 to 10?","왼쪽 발목의 통증을 1에서 10까지 어느 정도로 평가하시겠습니까?",445,"gpt-4-turbo",NA,NA
+"아킬레스 힘줄염 [좌측], 발목의 상세불명 부분의 염좌 및 긴장 [좌측]","Details of the complaint","timing","Does the pain in your left ankle worsen with any specific movements?","왼쪽 발목의 통증이 특정 동작을 할 때 더 심해지나요?",446,"gpt-4-turbo",NA,NA
+"아킬레스 힘줄염 [좌측], 발목의 상세불명 부분의 염좌 및 긴장 [좌측]","Details of the complaint","aggravating factors","Are there certain activities or times of day when your left ankle pain is more intense?","왼쪽 발목의 통증이 더 심한 특정 활동이나 시간이 있습니까?",447,"gpt-4-turbo",NA,NA
+"아킬레스 힘줄염 [좌측], 발목의 상세불명 부분의 염좌 및 긴장 [좌측]","Details of the complaint","associated symptoms","Have you experienced any swelling, redness, or warmth in your left ankle?","왼쪽 발목에 부종, 발적 또는 온기를 느낀 적이 있습니까?",448,"gpt-4-turbo",NA,NA
+"아킬레스 힘줄염 [좌측], 발목의 상세불명 부분의 염좌 및 긴장 [좌측]","Review of systems","mobility","Has there been a decrease in the range of motion of your left ankle?","왼쪽 발목의 움직임 범위가 줄어든 적이 있습니까?",449,"gpt-4-turbo",NA,NA
+"아킬레스 힘줄염 [좌측], 발목의 상세불명 부분의 염좌 및 긴장 [좌측]","Review of systems","functionality","Are you able to stand and walk comfortably despite the left ankle issues?","왼쪽 발목 문제에도 불구하고 편안하게 서거나 걸을 수 있습니까?",450,"gpt-4-turbo",NA,NA
+"J01 급성 부비동염","Details of the complaint","severity","How severe is your sinus pain on a scale of 1 to 10?","1에서 10까지의 척도에서 부비동 통증의 심각성을 어떻게 평가하시겠습니까?",451,"gpt-4-turbo",NA,NA
+"J01 급성 부비동염","Details of the complaint","associated symptoms","Have you experienced any nasal discharge? If yes, what is the color and consistency?","콧물이 있는 경우, 색깔과 질감은 어떠합니까?",452,"gpt-4-turbo",NA,NA
+"J01 급성 부비동염","Details of the complaint","aggravating factors","Do you find certain positions or activities worsen your sinus pain?","특정 자세나 활동이 부비동 통증을 악화시키는 경우가 있습니까?",453,"gpt-4-turbo",NA,NA
+"J01 급성 부비동염","Review of systems","fever","Have you experienced any fever recently?","최근에 열이 있었습니까?",454,"gpt-4-turbo",NA,NA
+"상세불명의 뇌혈관질환","Details of the complaint","severity","How severe is your dizziness on a scale of 1 to 10?","어지럼증의 심각성을 1부터 10까지의 척도로 어느 정도입니까?",455,"gpt-4-turbo",NA,NA
+"상세불명의 뇌혈관질환","Details of the complaint","timing","When do you usually experience dizziness? Is it constant or does it come and go?","일반적으로 어지럼증을 언제 경험하십니까? 지속되거나 오락가락하나요?",456,"gpt-4-turbo",NA,NA
+"상세불명의 뇌혈관질환","Details of the complaint","aggravating factors","Are there specific activities or situations that make your dizziness worse?","어지럼증을 악화시키는 특정 활동이나 상황이 있습니까?",457,"gpt-4-turbo",NA,NA
+"상세불명의 뇌혈관질환","Review of systems","neurological symptoms","Have you experienced any headaches, numbness, or tingling sensations?","두통, 마비 또는 따끔거림과 같은 감각을 경험한 적이 있습니까?",458,"gpt-4-turbo",NA,NA
+"상세불명의 뇌혈관질환","Review of systems","visual disturbances","Have you noticed any changes in your vision, such as blurring or double vision?","시력에 변화가 있었나요, 예를 들어 흐릿하거나 이중으로 보이는 등의?",459,"gpt-4-turbo",NA,NA
+"상세불명의 뇌혈관질환","Review of systems","hearing disturbances","Have there been any changes in your hearing or do you hear any unusual sounds like ringing?","청력에 변화가 있었거나 이상한 소리(예: 이명)를 들은 적이 있습니까?",460,"gpt-4-turbo",NA,NA
+"상세불명의 뇌혈관질환","Past medical history","neurological conditions","Have you ever been diagnosed with any other neurological conditions?","다른 신경학적 질환 진단을 받은 적이 있습니까?",461,"gpt-4-turbo",NA,NA
+"상세불명의 뇌혈관질환","Family medical history","vascular or neurological diseases","Is there a family history of vascular or neurological diseases?","가족 중에 혈관 또는 신경 질환 병력이 있습니까?",462,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물 C73, papillary carcinoma (cat VI), BRAF(+)","Review of systems","neck","Have you noticed any new lumps or swelling in your neck area?","목 부위에 새로운 혹이나 부종이 발견되었습니까?",463,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물 C73, papillary carcinoma (cat VI), BRAF(+)","Review of systems","thyroid function","Have you experienced any changes in your voice or difficulty swallowing?","목소리 변화나 삼키기 어려움을 경험했습니까?",464,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물 C73, papillary carcinoma (cat VI), BRAF(+)","Review of systems","metabolic","Have you noticed any unexpected weight loss or heat intolerance?","예상치 못한 체중 감소나 열에 대한 내성 감소를 느꼈습니까?",465,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물 C73, papillary carcinoma (cat VI), BRAF(+)","Review of systems","energy levels","Have you been feeling unusually tired or lethargic?","평소보다 피곤하거나 기운이 없다고 느꼈습니까?",466,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물 C73, papillary carcinoma (cat VI), BRAF(+)","Review of systems","psychological","Have you experienced any recent mood swings or unusual anxiety?","최근 기분 변화나 이상한 불안을 경험했습니까?",467,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490 진단명 폐의 진단적 영상상 이상소견, 국제질병 r91 분류기호","Details of the complaint","severity","How would you rate your breathing difficulty on a scale from 1 to 10?","호흡곤란을 1에서 10까지 어느 정도로 평가하시겠습니까?",468,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490 진단명 폐의 진단적 영상상 이상소견, 국제질병 r91 분류기호","Details of the complaint","timing","Do you experience breathing difficulties more during the day or night?","낮보다 밤에 호흡곤란을 더 많이 느끼시나요?",469,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490 진단명 폐의 진단적 영상상 이상소견, 국제질병 r91 분류기호","Details of the complaint","aggravating factors","Are there specific activities or environments that worsen your breathing problems?","호흡 문제를 악화시키는 특정 활동이나 환경이 있습니까?",470,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490 진단명 폐의 진단적 영상상 이상소견, 국제질병 r91 분류기호","Associated symptoms","cough","Have you been experiencing any cough? If yes, is it dry or productive?","기침을 하시나요? 만약 그렇다면, 마른기침인가요 아니면 가래가 동반된 기침인가요?",471,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490 진단명 폐의 진단적 영상상 이상소견, 국제질병 r91 분류기호","Associated symptoms","chest pain","Do you have any chest pain or discomfort?","가슴 통증이나 불편함이 있습니까?",472,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490 진단명 폐의 진단적 영상상 이상소견, 국제질병 r91 분류기호","Review of systems","weight loss","Have you experienced any unintentional weight loss recently?","최근에 의도하지 않은 체중 감소를 경험하셨나요?",473,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490 진단명 폐의 진단적 영상상 이상소견, 국제질병 r91 분류기호","Review of systems","fever","Have you had any episodes of fever?","열이 나신 적이 있나요?",474,"gpt-4-turbo",NA,NA
+"상세불명의 기관지 또는 폐의 악성 신생물, 오른쪽 C3490 진단명 폐의 진단적 영상상 이상소견, 국제질병 r91 분류기호","Review of systems","general wellbeing","Have there been any recent changes in your overall health status?","최근에 전반적인 건강 상태에 변화가 있었습니까?",475,"gpt-4-turbo",NA,NA
+"저장철 1607 증가","Review of systems","skin","Have you noticed any changes in skin color, like a bronze or gray tinge?","피부 색깔에 변화가 있었나요, 예를 들어 청동색 또는 회색빛을 띠는가요?",476,"gpt-4-turbo",NA,NA
+"저장철 1607 증가","Review of systems","energy levels","Have you been feeling more fatigued or lethargic than usual?","평소보다 더 피곤하거나 기운이 없다고 느끼시나요?",477,"gpt-4-turbo",NA,NA
+"저장철 1607 증가","Review of systems","abdominal symptoms","Have you experienced any abdominal pain or discomfort recently?","최근에 복통이나 복부 불편함을 겪은 적이 있습니까?",478,"gpt-4-turbo",NA,NA
+"저장철 1607 증가","Review of systems","heart","Have you noticed any irregular heartbeats or palpitations?","불규칙적인 심장 박동이나 심계항진을 느낀 적이 있습니까?",479,"gpt-4-turbo",NA,NA
+"저장철 1607 증가","Details of the complaint","associated symptoms","Have you experienced any joint pain?","관절 통증을 경험하신 적이 있습니까?",480,"gpt-4-turbo",NA,NA
+"저장철 1607 증가","Review of systems","weight changes","Have you had any unexpected weight changes, either gain or loss?","예상치 못한 체중 변화가 있었나요, 증가하거나 감소한?",481,"gpt-4-turbo",NA,NA
+"중심성망각막락막염 (무안) 또는 황반변성(우안)","Details of the complaint","severity","Have you noticed a decrease in the sharpness of your vision?","시력의 날카로움이 감소한 것을 느꼈습니까?",482,"gpt-4-turbo",NA,NA
+"중심성망각막락막염 (무안) 또는 황반변성(우안)","Details of the complaint","associated symptoms","Do you see distorted images or wavy lines?","왜곡된 이미지나 물결 모양의 선을 보셨습니까?",483,"gpt-4-turbo",NA,NA
+"중심성망각막락막염 (무안) 또는 황반변성(우안)","Details of the complaint","timing","Are these visual changes more noticeable during a particular time of the day?","이러한 시각 변화가 하루 중 특정 시간에 더 눈에 띄십니까?",484,"gpt-4-turbo",NA,NA
+"중심성망각막락막염 (무안) 또는 황반변성(우안)","Review of systems","visual disturbances","Have you experienced any blind spots or areas of vision loss?","시야의 눈에 보이지 않는 곳이나 시력 상실 지역이 있습니까?",485,"gpt-4-turbo",NA,NA
+"중심성망각막락막염 (무안) 또는 황반변성(우안)","Review of systems","color perception","Have you noticed any changes in how you perceive colors?","색상 인식에 변화가 있었습니까?",486,"gpt-4-turbo",NA,NA
+"기타 뇌경색증, 기타 및 상세불명의 원발성 고혈압","Details of the complaint","timing","Have you experienced any sudden weakness or numbness in your arms or legs?","팔이나 다리에 갑자기 힘이 빠지거나 저림 현상을 겪은 적이 있습니까?",487,"gpt-4-turbo",NA,NA
+"기타 뇌경색증, 기타 및 상세불명의 원발성 고혈압","Details of the complaint","associated symptoms","Have you had any episodes of slurred speech or difficulty understanding others?","말이 어둔하거나 다른 사람의 말을 이해하는데 어려움을 겪은 적이 있습니까?",488,"gpt-4-turbo",NA,NA
+"기타 뇌경색증, 기타 및 상세불명의 원발성 고혈압","Details of the complaint","severity","How severe would you rate any headaches or dizziness you have experienced?","두통이나 어지러움을 경험했을 때, 그 심각성을 어떻게 평가하시겠습니까?",489,"gpt-4-turbo",NA,NA
+"기타 뇌경색증, 기타 및 상세불명의 원발성 고혈압","Review of systems","cognitive","Have you noticed any recent memory loss or confusion?","최근에 기억 상실이나 혼란을 겪은 적이 있습니까?",490,"gpt-4-turbo",NA,NA
+"기타 뇌경색증, 기타 및 상세불명의 원발성 고혈압","Review of systems","visual","Have you experienced any sudden vision changes, such as blurred vision or loss of vision?","시력이 갑자기 변하거나 시력 상실을 경험한 적이 있습니까?",491,"gpt-4-turbo",NA,NA
+"기타 뇌경색증, 기타 및 상세불명의 원발성 고혈압","Review of systems","cardiovascular","Have you noticed any chest pain or shortness of breath?","가슴 통증이나 숨가쁨을 느낀 적이 있습니까?",492,"gpt-4-turbo",NA,NA
+"Lt pelvic mass heterogeneous 2.39×2.09cm r/o ovarian mass r/o GI","Details of the complaint","location","Could you specify the exact location where you feel the mass or any discomfort?","덩어리가 느껴지거나 불편함을 느끼는 정확한 부위를 말씀해 주실 수 있으십니까?",493,"gpt-4-turbo",NA,NA
+"Lt pelvic mass heterogeneous 2.39×2.09cm r/o ovarian mass r/o GI","Details of the complaint","severity","How would you rate the pain or discomfort on a scale from 1 to 10?","1부터 10까지의 척도로 통증이나 불편함을 평가해 주시겠습니까?",494,"gpt-4-turbo",NA,NA
+"Lt pelvic mass heterogeneous 2.39×2.09cm r/o ovarian mass r/o GI","Details of the complaint","timing","When did you first notice symptoms related to the pelvic mass?","골반 덩어리 관련 증상을 처음 언제 눈치채셨습니까?",495,"gpt-4-turbo",NA,NA
+"Lt pelvic mass heterogeneous 2.39×2.09cm r/o ovarian mass r/o GI","Details of the complaint","aggravating factors","Are there any activities or conditions that worsen your symptoms?","증상을 악화시키는 활동이나 상태가 있습니까?",496,"gpt-4-turbo",NA,NA
+"Lt pelvic mass heterogeneous 2.39×2.09cm r/o ovarian mass r/o GI","Details of the complaint","associated symptoms","Have you experienced any unusual vaginal bleeding or discharge?","평소와 다른 질 출혈이나 분비물이 있었습니까?",497,"gpt-4-turbo",NA,NA
+"Lt pelvic mass heterogeneous 2.39×2.09cm r/o ovarian mass r/o GI","Review of systems","gastrointestinal","Have you had any changes in bowel habits or digestive discomfort?","대변 습관의 변화나 소화 불편함이 있었습니까?",498,"gpt-4-turbo",NA,NA
+"Lt pelvic mass heterogeneous 2.39×2.09cm r/o ovarian mass r/o GI","Review of systems","urinary","Have you noticed any changes in urinary frequency, urgency, or pain?","배뇨 빈도, 긴급성 또는 통증에 변화가 있었습니까?",499,"gpt-4-turbo",NA,NA
+"급성 아토피결막염 H10.1, 녹내장 의심 H40.0","Details of the complaint","associated symptoms","Have you experienced itching or severe redness in your eyes?","눈에 가려움증이나 심한 발적을 겪은 적이 있습니까?",500,"gpt-4-turbo",NA,NA
+"급성 아토피결막염 H10.1, 녹내장 의심 H40.0","Details of the complaint","severity","How would you rate the intensity of any discomfort or pain in your eyes on a scale of 1 to 10?","눈의 불편함이나 통증의 강도를 1에서 10까지의 척도로 어떻게 평가하시겠습니까?",501,"gpt-4-turbo",NA,NA
+"급성 아토피결막염 H10.1, 녹내장 의심 H40.0","Review of systems","vision changes","Have you noticed any changes in your vision, such as blurring or seeing halos around lights?","시력 변화를 느낀 적이 있습니까? 예를 들어, 흐릿한 시력이나 빛 주위에 후광을 보는 등의 변화가 있었나요?",502,"gpt-4-turbo",NA,NA
+"급성 아토피결막염 H10.1, 녹내장 의심 H40.0","Review of systems","eye discharge","Have you had any unusual discharge from your eyes?","평소와 다른 눈의 분비물이 있었습니까?",503,"gpt-4-turbo",NA,NA
+"급성 아토피결막염 H10.1, 녹내장 의심 H40.0","Details of the complaint","aggravating factors","Do certain environments or activities worsen your eye symptoms?","특정 환경이나 활동으로 인해 눈 증상이 악화되나요?",504,"gpt-4-turbo",NA,NA
+"급성 아토피결막염 H10.1, 녹내장 의심 H40.0","Review of systems","night vision","Have you experienced any difficulties with night vision?","야간 시력에서 어려움을 겪은 적이 있습니까?",505,"gpt-4-turbo",NA,NA
+"급성 아토피결막염 H10.1, 녹내장 의심 H40.0","Review of systems","pain","Is there any pain associated with eye movements?","눈을 움직일 때 통증이 동반되나요?",506,"gpt-4-turbo",NA,NA
+"급성 아토피결막염 H10.1, 녹내장 의심 H40.0","Details of the complaint","timing","When do you typically experience these eye symptoms? Are they constant or intermittent?","일반적으로 언제 이러한 눈 증상을 경험하십니까? 지속적입니까, 아니면 간헐적입니까?",507,"gpt-4-turbo",NA,NA
+"급성 아토피결막염 H10.1, 녹내장 의심 H40.0","Review of systems","sensitivity","Do you find your eyes to be overly sensitive to light?","빛에 대해 눈이 과도하게 민감하다고 느끼십니까?",508,"gpt-4-turbo",NA,NA
+"급성 아토피결막염 H10.1, 녹내장 의심 H40.0","Review of systems","recent changes","Have you noticed any recent changes in the appearance of your eyes, such as increased redness or swelling?","최근 눈의 모습에 변화를 느낀 적이 있습니까? 예를 들어, 발적이나 부기가 증가한 것 등이 있습니까?",509,"gpt-4-turbo",NA,NA
+"척수병증을 동반한 기타 척추증, 경부 M4712","Details of the complaint","location","Do you feel pain specifically in your neck region?","목 부위에 특별히 통증을 느끼십니까?",510,"gpt-4-turbo",NA,NA
+"척수병증을 동반한 기타 척추증, 경부 M4712","Details of the complaint","severity","How would you rate your neck pain on a scale from 1 to 10?","1에서 10까지 스케일로 목 통증을 어떻게 평가하시겠습니까?",511,"gpt-4-turbo",NA,NA
+"척수병증을 동반한 기타 척추증, 경부 M4712","Details of the complaint","timing","Is your neck pain constant, or does it come and go?","목 통증이 지속되나요, 아니면 간헐적입니까?",512,"gpt-4-turbo",NA,NA
+"척수병증을 동반한 기타 척추증, 경부 M4712","Details of the complaint","aggravating factors","Are there specific activities or positions that increase your neck pain?","목 통증을 증가시키는 특정 활동이나 자세가 있습니까?",513,"gpt-4-turbo",NA,NA
+"척수병증을 동반한 기타 척추증, 경부 M4712","Details of the complaint","associated symptoms","Have you experienced any numbness, tingling, or weakness in your arms or legs?","팔이나 다리에 저림, 따끔거림 또는 약화를 경험한 적이 있습니까?",514,"gpt-4-turbo",NA,NA
+"척수병증을 동반한 기타 척추증, 경부 M4712","Review of systems","neurological","Have you noticed any changes in your coordination or difficulty in walking?","조정 능력에 변화나 걷기 어려움을 느낀 적이 있습니까?",515,"gpt-4-turbo",NA,NA
+"척수병증을 동반한 기타 척추증, 경부 M4712","Review of systems","sensory changes","Do you feel changes in sensation or unexpected pain elsewhere in your body?","신체의 다른 부위에 감각 변화나 예상치 못한 통증을 느끼십니까?",516,"gpt-4-turbo",NA,NA
+"척수병증을 동반한 기타 척추증, 경부 M4712","Review of systems","muscular strength","Have you observed a reduction in muscle strength in any area of your body?","신체의 어느 부위에서든 근육 힘이 감소한 것을 관찰한 적이 있습니까?",517,"gpt-4-turbo",NA,NA
+"R/O 관절염","Details of the complaint","location","Which joints are causing you the most pain?","어느 관절에 가장 통증이 있습니까?",518,"gpt-4-turbo",NA,NA
+"R/O 관절염","Details of the complaint","severity","On a scale from 1 to 10, how would you rate your joint pain?","1부터 10까지의 척도로 관절 통증을 어떻게 평가하시겠습니까?",519,"gpt-4-turbo",NA,NA
+"R/O 관절염","Details of the complaint","timing","Is your joint pain worse at any particular time of day?","하루 중 특정 시간에 관절 통증이 더 심합니까?",520,"gpt-4-turbo",NA,NA
+"R/O 관절염","Details of the complaint","aggravating factors","Are there any activities or movements that worsen your joint pain?","관절 통증을 악화시키는 활동이나 움직임이 있습니까?",521,"gpt-4-turbo",NA,NA
+"R/O 관절염","Details of the complaint","associated symptoms","Do you experience any redness, swelling, or warmth around your joints?","관절 주변에 발적, 부종, 또는 열감이 있습니까?",522,"gpt-4-turbo",NA,NA
+"R/O 관절염","Review of systems","general","Have you experienced any recent weight loss, fevers, or fatigue?","최근에 체중 감소, 발열, 또는 피로감을 경험한 적이 있습니까?",523,"gpt-4-turbo",NA,NA
+"R/O 관절염","Review of systems","skin","Have you noticed any rashes, especially following sun exposure?","햇볕에 노출된 후 특히 발진을 주의 깊게 보셨습니까?",524,"gpt-4-turbo",NA,NA
+"R/O 관절염","Review of systems","neurological","Have you had any numbness, tingling, or muscle weakness?","저림, 따끔거림, 또는 근육 약화가 있었습니까?",525,"gpt-4-turbo",NA,NA
+"돌발성 특발성 난청, 한쪽 분류기호 H9120","Details of the complaint","severity","Can you describe how your hearing loss has progressed?","청력 손실이 어떻게 진행되었는지 설명해 주실 수 있습니까?",526,"gpt-4-turbo",NA,NA
+"돌발성 특발성 난청, 한쪽 분류기호 H9120","Details of the complaint","timing","Did the hearing loss occur suddenly or gradually?","청력 손실은 갑자기 발생했습니까, 아니면 점진적이었습니까?",527,"gpt-4-turbo",NA,NA
+"돌발성 특발성 난청, 한쪽 분류기호 H9120","Details of the complaint","aggravating factors","Have you noticed any factors that worsen your hearing?","청력을 악화시키는 요인을 알아차린 적이 있습니까?",528,"gpt-4-turbo",NA,NA
+"돌발성 특발성 난청, 한쪽 분류기호 H9120","Review of systems","ear symptoms","Have you experienced any ringing or buzzing sounds in your ears?","귀에서 울리거나 윙윙거리는 소리를 경험한 적이 있습니까?",529,"gpt-4-turbo",NA,NA
+"돌발성 특발성 난청, 한쪽 분류기호 H9120","Review of systems","balance","Have you had any issues with balance or dizziness?","균형을 잡거나 어지럼증을 느낀 적이 있습니까?",530,"gpt-4-turbo",NA,NA
+"돌발성 특발성 난청, 한쪽 분류기호 H9120","Review of systems","recent infections","Have you had any recent viral or bacterial infections?","최근에 바이러스성 또는 세균성 감염을 앓은 적이 있습니까?",531,"gpt-4-turbo",NA,NA
+"상세불명의 만성 신장질환 N189, 말기 신장병을 동반한 인슐린-비의존 당뇨병 E1122","Details of the complaint","timing","When did you first notice symptoms associated with your kidney condition?","신장 상태와 관련된 증상을 처음으로 언제 눈치채셨나요?",532,"gpt-4-turbo",NA,NA
+"상세불명의 만성 신장질환 N189, 말기 신장병을 동반한 인슐린-비의존 당뇨병 E1122","Details of the complaint","severity","How would you rate the severity of your symptoms on a scale from 1 to 10?","증상의 심각성을 1에서 10까지의 척도로 어떻게 평가하시겠습니까?",533,"gpt-4-turbo",NA,NA
+"상세불명의 만성 신장질환 N189, 말기 신장병을 동반한 인슐린-비의존 당뇨병 E1122","Review of systems","urinary changes","Have you noticed any changes in urine color, amount, or frequency?","소변의 색깔, 양, 빈도에 변화가 있었습니까?",534,"gpt-4-turbo",NA,NA
+"상세불명의 만성 신장질환 N189, 말기 신장병을 동반한 인슐린-비의존 당뇨병 E1122","Review of systems","neurological","Have you experienced any numbness, tingling, or other unusual sensations?","저린 느낌, 따끔거림 또는 다른 비정상적인 감각을 경험하셨습니까?",535,"gpt-4-turbo",NA,NA
+"상세불명의 만성 신장질환 N189, 말기 신장병을 동반한 인슐린-비의존 당뇨병 E1122","Review of systems","cardiovascular","Do you have any symptoms of swelling in your legs or feet?","다리나 발에 부종 증상이 있습니까?",536,"gpt-4-turbo",NA,NA
+"상세불명의 만성 신장질환 N189, 말기 신장병을 동반한 인슐린-비의존 당뇨병 E1122","Review of systems","gastrointestinal","Have you experienced any persistent nausea or vomiting?","지속적인 메스꺼움이나 구토가 있었습니까?",537,"gpt-4-turbo",NA,NA
+"상세불명의 만성 신장질환 N189, 말기 신장병을 동반한 인슐린-비의존 당뇨병 E1122","Current medications","medication adherence","How regularly do you take your medication for diabetes and kidney disease?","당뇨병 및 신장 질환 치료약을 얼마나 규칙적으로 복용하고 계십니까?",538,"gpt-4-turbo",NA,NA
+"상세불명의 만성 신장질환 N189, 말기 신장병을 동반한 인슐린-비의존 당뇨병 E1122","Review of systems","endocrine","Have you been experiencing episodes of unusually low or high blood sugar?","평소와 다르게 혈당이 낮거나 높은 상태를 겪은 적이 있습니까?",539,"gpt-4-turbo",NA,NA
+"급성신우신염 N10","Details of the complaint","severity","How severe is your pain on a scale of 1 to 10?","통증의 심각성을 1부터 10까지의 척도로 어느 정도입니까?",540,"gpt-4-turbo",NA,NA
+"급성신우신염 N10","Details of the complaint","timing","Does the pain occur continuously or does it come and go?","통증이 지속적으로 발생하나요, 아니면 왔다 갔다 하나요?",541,"gpt-4-turbo",NA,NA
+"급성신우신염 N10","Review of systems","urination","Have you noticed any changes in the color or cloudiness of your urine?","소변의 색상이나 탁함에 변화가 있었습니까?",542,"gpt-4-turbo",NA,NA
+"급성신우신염 N10","Review of systems","fever","Have you experienced any fever recent?","최근에 열이 있었습니까?",543,"gpt-4-turbo",NA,NA
+"상세불명 또는 담낭염이 없는 담석증 K8020, 상세불명의 고혈당증 R739, 상병명 상세불명의 복통 R1049, 상세불명의 간질환 K769, 상세불명의 고지질혈증 E785","Details of the complaint","severity","How severe is the abdominal pain you are experiencing?","경험하고 있는 복통의 심각도는 어느 정도입니까?",544,"gpt-4-turbo",NA,NA
+"상세불명 또는 담낭염이 없는 담석증 K8020, 상세불명의 고혈당증 R739, 상병명 상세불명의 복통 R1049, 상세불명의 간질환 K769, 상세불명의 고지질혈증 E785","Details of the complaint","timing","Does your abdominal pain occur after eating or at a specific time of day?","복통은 식후에 발생하거나 하루 중 특정 시간에 발생합니까?",545,"gpt-4-turbo",NA,NA
+"상세불명 또는 담낭염이 없는 담석증 K8020, 상세불명의 고혈당증 R739, 상병명 상세불명의 복통 R1049, 상세불명의 간질환 K769, 상세불명의 고지질혈증 E785","Details of the complaint","aggravating factors","Are there specific foods or activities that worsen your abdominal pain?","복통을 악화시키는 특정 음식이나 활동이 있습니까?",546,"gpt-4-turbo",NA,NA
+"상세불명 또는 담낭염이 없는 담석증 K8020, 상세불명의 고혈당증 R739, 상병명 상세불명의 복통 R1049, 상세불명의 간질환 K769, 상세불명의 고지질혈증 E785","Review of systems","gastrointestinal","Have you noticed any changes in your bowel movements or stool color?","배변 습관이나 대변의 색상에 변화를 느낀 적이 있습니까?",547,"gpt-4-turbo",NA,NA
+"상세불명 또는 담낭염이 없는 담석증 K8020, 상세불명의 고혈당증 R739, 상병명 상세불명의 복통 R1049, 상세불명의 간질환 K769, 상세불명의 고지질혈증 E785","Review of systems","endocrine","Have you experienced frequent urination, increased thirst, or unexplained weight loss?","자주 소변을 보거나 갈증이 늘었거나 설명되지 않는 체중 감소를 경험했습니까?",548,"gpt-4-turbo",NA,NA
+"상세불명 또는 담낭염이 없는 담석증 K8020, 상세불명의 고혈당증 R739, 상병명 상세불명의 복통 R1049, 상세불명의 간질환 K769, 상세불명의 고지질혈증 E785","Review of systems","hepatic","Have you observed any yellowing of the skin or eyes?","피부나 눈의 황변을 관찰한 적이 있습니까?",549,"gpt-4-turbo",NA,NA
+"상세불명 또는 담낭염이 없는 담석증 K8020, 상세불명의 고혈당증 R739, 상병명 상세불명의 복통 R1049, 상세불명의 간질환 K769, 상세불명의 고지질혈증 E785","Review of systems","metabolic","Have you noticed any changes in your cholesterol levels or been told about them by another doctor?","콜레스테롤 수치에 변화가 있었거나 다른 의사에게 말씀 드린 적이 있습니까?",550,"gpt-4-turbo",NA,NA
+"발가락 염좌 및 긴장","Details of the complaint","location","Which toe is affected by the sprain or strain?","어느 발가락에 염좌나 긴장이 있습니까?",551,"gpt-4-turbo",NA,NA
+"발가락 염좌 및 긴장","Details of the complaint","severity","On a scale from 1 to 10, how would you rate the pain?","1에서 10까지의 척도로, 통증의 정도를 어떻게 평가하시겠습니까?",552,"gpt-4-turbo",NA,NA
+"발가락 염좌 및 긴장","Details of the complaint","timing","When do you feel the most pain? Is it constant, or does it come and go?","가장 통증을 심하게 느낄 때는 언제입니까? 지속적입니까, 아니면 오고 가나요?",553,"gpt-4-turbo",NA,NA
+"발가락 염좌 및 긴장","Details of the complaint","aggravating factors","What activities aggravate your toe pain?","어떤 활동이 발가락 통증을 악화시킵니까?",554,"gpt-4-turbo",NA,NA
+"발가락 염좌 및 긴장","Details of the complaint","associated symptoms","Have you experienced any swelling, redness, or warmth in the affected toe?","손상된 발가락에 부종, 발적 또는 화끈거림을 경험한 적이 있습니까?",555,"gpt-4-turbo",NA,NA
+"발가락 염좌 및 긴장","Review of systems","mobility","Has this toe injury affected your ability to walk or wear shoes?","이 발가락 부상이 걷거나 신발을 신는 데 영향을 미쳤습니까?",556,"gpt-4-turbo",NA,NA
+"발가락 염좌 및 긴장","Review of systems","skin","Have you noticed any bruises or skin changes around the affected toe?","손상된 발가락 주변에 멍이 들거나 피부 변화를 눈치챘습니까?",557,"gpt-4-turbo",NA,NA
+"뇌동맥류","Review of systems","neurological","Have you experienced any sudden, severe headaches?","갑자기 심한 두통을 겪은 적이 있습니까?",558,"gpt-4-turbo",NA,NA
+"뇌동맥류","Review of systems","neurological","Have you had episodes of double vision or blurred vision?","복시나 시력 흐림 증상이 있었습니까?",559,"gpt-4-turbo",NA,NA
+"뇌동맥류","Review of systems","neurological","Have you noticed any changes or loss in your hearing?","청력 변화나 소실을 느낀 적이 있습니까?",560,"gpt-4-turbo",NA,NA
+"뇌동맥류","Review of systems","neurological","Have you experienced any sudden numbness or weakness in your face, arms, or legs?","얼굴, 팔, 또는 다리에 갑자기 마비나 약화가 왔던 적이 있습니까?",561,"gpt-4-turbo",NA,NA
+"뇌동맥류","Review of systems","neurological","Have there been any incidents of slurred speech or difficulty in speaking?","말이 어눌하거나 말하기 어려움을 겪은 적이 있습니까?",562,"gpt-4-turbo",NA,NA
+"뇌동맥류","Review of systems","neurological","Have you felt a loss of coordination or trouble with walking?","조정력 상실이나 걷기 어려움을 느낀 적이 있습니까?",563,"gpt-4-turbo",NA,NA
+"뇌동맥류","Review of systems","neurological","Did you experience any sudden, intense pain behind one eye?","한쪽 눈 뒤에 갑자기 심한 통증을 경험한 적이 있습니까?",564,"gpt-4-turbo",NA,NA
+"뇌동맥류","Review of systems","neurological","Has there been a sensation of a 'thunderclap' headache – a severe and immediate headache?","'썬더클랩' 두통, 즉 심하고 갑작스러운 두통을 경험한 적이 있습니까?",565,"gpt-4-turbo",NA,NA
+"뇌동맥류","Review of systems","neurological","Have you ever been diagnosed with or treated for high blood pressure?","고혈압으로 진단받았거나 치료받은 적이 있습니까?",566,"gpt-4-turbo",NA,NA
+"뇌동맥류","Review of systems","neurological","Is there a family history of aneurysm or similar conditions?","동맥류나 비슷한 질병의 가족력이 있습니까?",567,"gpt-4-turbo",NA,NA
+"신질환의증, 고혈압, 고지혈증, 심장판막질환","Details of the complaint","severity","Have you experienced any increase in fatigue or decrease in energy?","피로도가 증가하거나 에너지가 감소한 적이 있습니까?",568,"gpt-4-turbo",NA,NA
+"신질환의증, 고혈압, 고지혈증, 심장판막질환","Details of the complaint","associated symptoms","Have you noticed foamy urine or blood in your urine?","거품이 있는 소변이나 소변에 피를 발견한 적이 있습니까?",569,"gpt-4-turbo",NA,NA
+"신질환의증, 고혈압, 고지혈증, 심장판막질환","Details of the complaint","associated symptoms","Have you experienced any sudden weight gain or swelling in your legs or around your eyes?","갑작스런 체중 증가나 다리 또는 눈 주위의 부종을 경험한 적이 있습니까?",570,"gpt-4-turbo",NA,NA
+"신질환의증, 고혈압, 고지혈증, 심장판막질환","Details of the complaint","timing","Do you notice your blood pressure fluctuating throughout the day?","하루 동안 혈압이 변동하는 것을 알아차린 적이 있습니까?",571,"gpt-4-turbo",NA,NA
+"신질환의증, 고혈압, 고지혈증, 심장판막질환","Details of the complaint","associated symptoms","Have you had episodes of chest pain or palpitations?","가슴 통증이나 심계항진을 겪은 적이 있습니까?",572,"gpt-4-turbo",NA,NA
+"신질환의증, 고혈압, 고지혈증, 심장판막질환","Review of systems","respiratory","Do you experience shortness of breath during slight physical activity or while resting?","약간의 신체 활동 중이나 휴식 중에 호흡곤란을 느낀 적이 있습니까?",573,"gpt-4-turbo",NA,NA
+"신질환의증, 고혈압, 고지혈증, 심장판막질환","Review of systems","cardiovascular","Have you noticed any heart murmurs or irregular heartbeats?","심장잡음이나 불규칙한 심장 박동을 느낀 적이 있습니까?",574,"gpt-4-turbo",NA,NA
+"신질환의증, 고혈압, 고지혈증, 심장판막질환","Review of systems","urinary","How often do you need to urinate during the night?","밤에 소변을 보러 자주 일어나십니까?",575,"gpt-4-turbo",NA,NA
+"신질환의증, 고혈압, 고지혈증, 심장판막질환","Lifestyle","diet","Have you been following any specific dietary restrictions recommended for your conditions?","상태에 권장되는 특정 식단 제한을 따르고 있습니까?",576,"gpt-4-turbo",NA,NA
+"신질환의증, 고혈압, 고지혈증, 심장판막질환","Review of systems","general health","Have you noticed any significant weight changes or unexplained malaise?","눈에 띄는 체중 변화나 설명할 수 없는 권태를 느낀 적이 있습니까?",577,"gpt-4-turbo",NA,NA
+"전립선의 양성 비대증","Details of the complaint","timing","Do you experience more frequent urination during the night?","밤에 소변을 자주 보시나요?",578,"gpt-4-turbo",NA,NA
+"전립선의 양성 비대증","Details of the complaint","severity","How would you rate the difficulty of starting urination on a scale from 1 to 10?","소변을 시작하기 어려움을 1부터 10까지 어느 정도로 평가하시겠습니까?",579,"gpt-4-turbo",NA,NA
+"전립선의 양성 비대증","Details of the complaint","associated symptoms","Have you had any episodes of urinary retention?","소변 정체 증상을 경험한 적이 있습니까?",580,"gpt-4-turbo",NA,NA
+"전립선의 양성 비대증","Review of systems","genitourinary","Have you noticed any blood in your urine?","소변에 피가 섞여 나온 적이 있습니까?",581,"gpt-4-turbo",NA,NA
+"전립선의 양성 비대증","Review of systems","genitourinary","Do you feel any pain or burning sensation during urination?","소변을 볼 때 통증이나 타는 느낌이 있습니까?",582,"gpt-4-turbo",NA,NA
+"전립선의 양성 비대증","Lifestyle details","fluid intake","How much fluid do you consume on a daily basis?","하루에 얼마나 많은 양의 수분을 섭취하십니까?",583,"gpt-4-turbo",NA,NA
+"이상가래","Details of the complaint","timing","When did you first notice the abnormal sputum?","이상한 가래를 처음 발견한 때는 언제입니까?",584,"gpt-4-turbo",NA,NA
+"이상가래","Details of the complaint","character","What is the color and consistency of the sputum?","가래의 색깔과 질감은 어떻습니까?",585,"gpt-4-turbo",NA,NA
+"이상가래","Details of the complaint","associated symptoms","Have you experienced any coughing or wheezing?","기침이나 천명을 경험한 적이 있습니까?",586,"gpt-4-turbo",NA,NA
+"이상가래","Details of the complaint","aggravating factors","Are there specific conditions that worsen the sputum production?","가래 생성을 악화시키는 구체적인 상황이 있습니까?",587,"gpt-4-turbo",NA,NA
+"이상가래","Review of systems","respiratory","Have you noticed shortness of breath or difficulty breathing?","호흡계에 관련된 어려움, 예를 들어 숨가쁨이나 호흡 곤란을 느낀 적이 있습니까?",588,"gpt-4-turbo",NA,NA
+"두근거림 R002","Details of the complaint","timing","How often do you experience palpitations?","두근거림을 얼마나 자주 경험하십니까?",589,"gpt-4-turbo",NA,NA
+"두근거림 R002","Details of the complaint","severity","How severe are the palpitations on a scale of 1 to 10?","1에서 10까지의 척도로 두근거림의 심각성을 어떻게 평가하시겠습니까?",590,"gpt-4-turbo",NA,NA
+"두근거림 R002","Details of the complaint","aggravating factors","Are there specific activities or situations that trigger your palpitations?","두근거림을 유발하는 특정 활동이나 상황이 있습니까?",591,"gpt-4-turbo",NA,NA
+"두근거림 R002","Review of systems","cardiovascular","Do you experience any chest pain or discomfort along with your palpitations?","두근거림과 함께 가슴 통증이나 불편함을 느끼십니까?",592,"gpt-4-turbo",NA,NA
+"두근거림 R002","Review of systems","respiratory","Do you feel short of breath when you have palpitations?","두근거림이 있을 때 숨이 차다고 느끼십니까?",593,"gpt-4-turbo",NA,NA
+"두근거림 R002","Review of systems","neurological","Have you experienced any episodes of dizziness or fainting?","어지럼증이나 기절 증상을 겪은 적이 있습니까?",594,"gpt-4-turbo",NA,NA
+"thyroid nodule","Details of the complaint","severity","Have you noticed any changes in the size of the nodule?","결절의 크기에 변화를 느낀 적이 있습니까?",595,"gpt-4-turbo",NA,NA
+"thyroid nodule","Associated symptoms","thyroid function","Have you experienced any symptoms of hyperthyroidism such as sweating, anxiety, or heart palpitations?","땀, 불안, 심계항진과 같은 갑상선기능항진증 증상을 경험한 적이 있습니까?",596,"gpt-4-turbo",NA,NA
+"thyroid nodule","Associated symptoms","thyroid function","Have you had symptoms of hypothyroidism like fatigue, weight gain, or cold intolerance?","피로, 체중 증가 또는 추위에 대한 내성 감소와 같은 갑상선기능저하증 증상이 있었습니까?",597,"gpt-4-turbo",NA,NA
+"thyroid nodule","Review of systems","neck discomfort","Do you feel any discomfort or pain in your neck?","목에 불편함이나 통증이 있습니까?",598,"gpt-4-turbo",NA,NA
+"thyroid nodule","Review of systems","voice changes","Have you noticed any changes in your voice, such as hoarseness?","목소리에 변화가 있었나요, 예를 들어 쉰 목소리가 나나요?",599,"gpt-4-turbo",NA,NA
+"신체화장애 F450, 두통 R51, 기타 근통, 여러 부위 M79108, 상병명 상세불명의 식도염을 동반한 흉통, 위-식도역류병 상병코드 R074 K210","Details of the complaint","location","Can you specify the areas where you feel the most pain?","가장 통증을 많이 느끼는 부위를 구체적으로 말씀해 주실 수 있으십니까?",600,"gpt-4-turbo",NA,NA
+"신체화장애 F450, 두통 R51, 기타 근통, 여러 부위 M79108, 상병명 상세불명의 식도염을 동반한 흉통, 위-식도역류병 상병코드 R074 K210","Details of the complaint","severity","How would you rate your headache on a scale from 1 to 10?","두통의 심각성을 1에서 10까지의 척도로 평가해 주실 수 있습니까?",601,"gpt-4-turbo",NA,NA
+"신체화장애 F450, 두통 R51, 기타 근통, 여러 부위 M79108, 상병명 상세불명의 식도염을 동반한 흉통, 위-식도역류병 상병코드 R074 K210","Details of the complaint","aggravating factors","Does anything in particular seem to worsen your muscle pain?","특정한 것이 근육통을 악화시키는 것 같습니까?",602,"gpt-4-turbo",NA,NA
+"신체화장애 F450, 두통 R51, 기타 근통, 여러 부위 M79108, 상병명 상세불명의 식도염을 동반한 흉통, 위-식도역류병 상병코드 R074 K210","Details of the complaint","associated symptoms","Do you experience any nausea or vomiting along with your headaches?","두통과 함께 메스꺼움이나 구토가 있습니까?",603,"gpt-4-turbo",NA,NA
+"신체화장애 F450, 두통 R51, 기타 근통, 여러 부위 M79108, 상병명 상세불명의 식도염을 동반한 흉통, 위-식도역류병 상병코드 R074 K210","Details of the complaint","timing","When during the day do you usually experience these symptoms?","보통 하루 중 언제 이러한 증상을 경험하십니까?",604,"gpt-4-turbo",NA,NA
+"신체화장애 F450, 두통 R51, 기타 근통, 여러 부위 M79108, 상병명 상세불명의 식도염을 동반한 흉통, 위-식도역류병 상병코드 R074 K210","Review of systems","digestive","Have you noticed any changes in your bowel habits since your symptoms started?","증상이 시작된 이후에 배변 습관에 변화가 있었습니까?",605,"gpt-4-turbo",NA,NA
+"신체화장애 F450, 두통 R51, 기타 근통, 여러 부위 M79108, 상병명 상세불명의 식도염을 동반한 흉통, 위-식도역류병 상병코드 R074 K210","Review of systems","cardiovascular","Apart from chest pain, do you experience any palpitations or shortness of breath?","흉통 외에 두근거림이나 숨가쁨을 느끼십니까?",606,"gpt-4-turbo",NA,NA
+"고혈압, 이상지질혈증, 심장판막질환","History of the present illness","duration","When were you first diagnosed with hypertension, dyslipidemia, or heart valve disease?","고혈압, 이상지질혈증 또는 심장판막질환 진단을 처음 받은 시기는 언제입니까?",607,"gpt-4-turbo",NA,NA
+"고혈압, 이상지질혈증, 심장판막질환","Details of the complaint","severity","How would you rate the severity of any chest pain or discomfort you experience?","가슴 통증이나 불편감의 심각성을 어떻게 평가하시겠습니까?",608,"gpt-4-turbo",NA,NA
+"고혈압, 이상지질혈증, 심장판막질환","Review of systems","cardiovascular","Have you noticed any recent changes in your heartbeat, such as racing or skipping beats?","최근에 심장 박동의 변화를 느낀 적이 있습니까? 예를 들어, 심장이 빨리 뛰거나 박동이 빠지는 등의 증상이 있었습니까?",609,"gpt-4-turbo",NA,NA
+"고혈압, 이상지질혈증, 심장판막질환","Review of systems","respiratory","Do you experience shortness of breath, especially during physical activity or when lying down?","신체 활동 중이나 누워 있을 때 특히 숨이 차는 증상이 있습니까?",610,"gpt-4-turbo",NA,NA
+"고혈압, 이상지질혈증, 심장판막질환","Review of systems","general","Have you experienced any swelling in your legs or feet?","다리나 발에 부종이 생긴 적이 있습니까?",611,"gpt-4-turbo",NA,NA
+"고혈압, 이상지질혈증, 심장판막질환","Review of systems","general","Have you noticed any unexplained fatigue or weakness?","설명할 수 없는 피로감이나 약함을 느낀 적이 있습니까?",612,"gpt-4-turbo",NA,NA
+"역류식도염 k210, 만성위염 k295","Details of the complaint","timing","Do your symptoms worsen after eating or when lying down?","음식을 섭취한 후나 누웠을 때 증상이 악화되나요?",613,"gpt-4-turbo",NA,NA
+"역류식도염 k210, 만성위염 k295","Details of the complaint","associated symptoms","Have you experienced nausea or vomiting along with your stomach discomfort?","복통과 함께 메스꺼움이나 구토가 있었나요?",614,"gpt-4-turbo",NA,NA
+"역류식도염 k210, 만성위염 k295","Review of systems","weight changes","Have you experienced any unexpected weight loss recently?","최근에 예기치 않은 체중 감소가 있었나요?",615,"gpt-4-turbo",NA,NA
+"역류식도염 k210, 만성위염 k295","Review of systems","appetite","Have there been any changes in your appetite?","식욕에 변화가 있었나요?",616,"gpt-4-turbo",NA,NA
+"노인성 뇌 퇴행, NEC G311","Review of systems","cognitive function","Have you experienced any recent memory loss or forgetfulness?","최근 기억 상실이나 건망증을 경험하신 적이 있습니까?",617,"gpt-4-turbo",NA,NA
+"노인성 뇌 퇴행, NEC G311","Review of systems","behavioral changes","Have you noticed any changes in your behavior or mood?","행동이나 기분에서 변화를 느끼신 적이 있습니까?",618,"gpt-4-turbo",NA,NA
+"노인성 뇌 퇴행, NEC G311","Review of systems","speech and language","Have you had any difficulty in speaking or understanding language?","말하기나 언어 이해에 어려움을 겪으신 적이 있습니까?",619,"gpt-4-turbo",NA,NA
+"노인성 뇌 퇴행, NEC G311","Review of systems","motor skills","Have you experienced any decline in coordination or motor skills?","조정 능력이나 운동 기능에서 감소를 경험하신 적이 있습니까?",620,"gpt-4-turbo",NA,NA
+"노인성 뇌 퇴행, NEC G311","Review of systems","orientation","Do you have difficulty remembering the date, time or place?","날짜, 시간 또는 장소를 기억하는데 어려움이 있습니까?",621,"gpt-4-turbo",NA,NA
+"노인성 뇌 퇴행, NEC G311","Review of systems","attention","Do you find it difficult to concentrate for a period of time?","한동안 집중하기 어려움을 겪으신 적이 있습니까?",622,"gpt-4-turbo",NA,NA
+"폐경후골다공증","Details of the complaint","location","Have you experienced pain in specific areas such as the back, hips, or wrists?","등, 고관절 또는 손목과 같은 특정 부위에서 통증을 경험한 적이 있습니까?",623,"gpt-4-turbo",NA,NA
+"폐경후골다공증","Details of the complaint","severity","How severe is the pain you experience in these areas?","이러한 부위에서 경험하는 통증의 심각도는 어느 정도입니까?",624,"gpt-4-turbo",NA,NA
+"폐경후골다공증","Review of systems","fractures","Have you had any fractures, especially after minor falls or injuries?","경미한 낙상이나 부상 후 골절이 발생한 적이 있습니까?",625,"gpt-4-turbo",NA,NA
+"폐경후골다공증","Review of systems","height loss","Have you noticed a decrease in height over time?","시간이 지남에 따라 키가 줄어든 것을 알아차린 적이 있습니까?",626,"gpt-4-turbo",NA,NA
+"폐경후골다공증","Review of systems","posture changes","Have you observed any changes in your posture, such as becoming more stooped?","자세에 변화가 있는지, 예를 들어 더 굽은 자세가 되었는지 관찰한 적이 있습니까?",627,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물[우측] C73","Details of the complaint","location","Do you feel any lumps or swelling on the right side of your neck?","목 오른쪽 부분에 혹이나 부종을 느낀 적이 있습니까?",628,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물[우측] C73","Details of the complaint","severity","Have you experienced any pain or discomfort in your neck?","목에 통증이나 불편함을 느낀 적이 있습니까?",629,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물[우측] C73","Details of the complaint","associated symptoms","Have you observed any changes in your voice or difficulty swallowing?","목소리 변화나 삼키는 데 어려움을 겪은 적이 있습니까?",630,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물[우측] C73","Review of systems","endocrine","Have you noticed any unusual weight loss, heat intolerance, or excessive sweating?","이상한 체중 감소, 열을 견디지 못하는 증상 또는 과도한 발한을 경험한 적이 있습니까?",631,"gpt-4-turbo",NA,NA
+"갑상선의 악성 신생물[우측] C73","Review of systems","neurological","Have you experienced any nervousness, anxiety, or tremors recently?","최근에 긴장감, 불안, 또는 떨림을 느낀 적이 있습니까?",632,"gpt-4-turbo",NA,NA
+"기타 및 상세불명의 원발성 고혈압 I109","Details of the complaint","severity","How would you rate your blood pressure levels recently?","최근 혈압 수준을 어떻게 평가하시겠습니까?",633,"gpt-4-turbo",NA,NA
+"기타 및 상세불명의 원발성 고혈압 I109","Review of systems","cardiovascular","Have you experienced any chest pain or discomfort?","가슴 통증이나 불편함을 느낀 적이 있습니까?",634,"gpt-4-turbo",NA,NA
+"기타 및 상세불명의 원발성 고혈압 I109","Review of systems","urinary","Have you noticed any changes in your urination patterns?","배뇨 패턴에 변화가 있었습니까?",635,"gpt-4-turbo",NA,NA
+"기타 및 상세불명의 원발성 고혈압 I109","Review of systems","head","Have you had any severe headaches or felt dizziness?","심한 두통이나 어지럼증이 있었습니까?",636,"gpt-4-turbo",NA,NA
+"폐암 C34.99, 만성 폐쇄성 폐질환 J44.99","Details of the complaint","location","Do you feel any pain or discomfort in your chest?","가슴에 통증이나 불편함을 느끼십니까?",637,"gpt-4-turbo",NA,NA
+"폐암 C34.99, 만성 폐쇄성 폐질환 J44.99","Details of the complaint","associated symptoms","Have you experienced any recent changes in your cough or a new wheezing sound?","기침이나 새로운 쌕쌕거림 소리에 최근 변화가 있었습니까?",638,"gpt-4-turbo",NA,NA
+"폐암 C34.99, 만성 폐쇄성 폐질환 J44.99","Review of systems","respiratory","Have you noticed any shortness of breath during daily activities or at rest?","일상생활이나 휴식 중 호흡곤란을 느낀 적이 있습니까?",639,"gpt-4-turbo",NA,NA
+"폐암 C34.99, 만성 폐쇄성 폐질환 J44.99","Review of systems","general","Have you experienced unexplained weight loss or fatigue recently?","최근에 설명할 수 없는 체중 감소나 피로를 경험하셨습니까?",640,"gpt-4-turbo",NA,NA
+"폐암 C34.99, 만성 폐쇄성 폐질환 J44.99","Review of systems","digestive","Are you experiencing any difficulties swallowing?","삼키는 데 어려움을 겪고 계십니까?",641,"gpt-4-turbo",NA,NA
+"폐암 C34.99, 만성 폐쇄성 폐질환 J44.99","Review of systems","neurological","Have you noticed any changes in your voice or frequent hoarseness?","목소리 변화나 자주 쉰 목소리가 나는 증상을 느꼈습니까?",642,"gpt-4-turbo",NA,NA
+"남성 불임[의증] 분류기호 N46","Details of the complaint","severity","Have you experienced any changes in semen volume or consistency?","정액의 양이나 일관성에 변화가 있었습니까?",643,"gpt-4-turbo",NA,NA
+"남성 불임[의증] 분류기호 N46","Details of the complaint","associated symptoms","Have you noticed any pain, discomfort, or swelling in your testicles?","고환에 통증, 불편함 또는 부종을 느꼈던 적이 있습니까?",644,"gpt-4-turbo",NA,NA
+"남성 불임[의증] 분류기호 N46","Review of systems","endocrine","Have you experienced symptoms of hormonal imbalance such as fatigue, mood swings, or weight changes?","피로, 기분 변화 또는 체중 변화와 같은 호르몬 불균형 증상을 경험한 적이 있습니까?",645,"gpt-4-turbo",NA,NA
+"남성 불임[의증] 분류기호 N46","Lifestyle details","environmental exposures","Have you been exposed to toxic chemicals, radiation, or extreme temperatures?","독성 화학물질, 방사선 또는 극단적 온도에 노출된 적이 있습니까?",646,"gpt-4-turbo",NA,NA
+"남성 불임[의증] 분류기호 N46","Past medical history","infections","Have you had any past infections that may have affected your reproductive health?","생식 건강에 영향을 줄 수 있는 과거 감염병이 있었습니까?",647,"gpt-4-turbo",NA,NA
+"남성 불임[의증] 분류기호 N46","Past medical history","chronic diseases","Do you have any chronic illnesses such as diabetes or kidney disease?","당뇨병이나 신장 질환과 같은 만성 질환이 있습니까?",648,"gpt-4-turbo",NA,NA
+"Meningioma","Review of systems","neurological","Have you experienced any changes in your vision?","시력 변화를 경험하셨습니까?",649,"gpt-4-turbo",NA,NA
+"Meningioma","Review of systems","neurological","Have you had any episodes of seizures?","간질 발작이 있었습니까?",650,"gpt-4-turbo",NA,NA
+"Meningioma","Review of systems","cognitive","Have you noticed any memory loss or difficulty concentrating?","기억력 상실이나 집중력 저하를 느끼셨습니까?",651,"gpt-4-turbo",NA,NA
+"Meningioma","Review of systems","sensory","Have you experienced any unusual smells or tastes?","평소와 다른 냄새나 맛을 경험하셨습니까?",652,"gpt-4-turbo",NA,NA
+"Meningioma","Review of systems","headache","Have you been having frequent headaches?","자주 두통이 있으십니까?",653,"gpt-4-turbo",NA,NA
+"Meningioma","Review of systems","muscular","Have you noticed any weakness in your arms or legs?","팔이나 다리에 약함을 느끼셨습니까?",654,"gpt-4-turbo",NA,NA
+"Meningioma","Review of systems","mood","Have there been any recent changes in your mood or behavior?","최근 기분이나 행동에 변화가 있었습니까?",655,"gpt-4-turbo",NA,NA
+"Meningioma","Review of systems","sleep","Have you experienced any changes in your sleep patterns?","수면 패턴에 변화가 있었습니까?",656,"gpt-4-turbo",NA,NA
+"거대신낭종","Details of the complaint","location","Do you feel pain or discomfort in the area of your kidneys?","신장 부위에 통증이나 불편함을 느끼십니까?",657,"gpt-4-turbo",NA,NA
+"거대신낭종","Details of the complaint","severity","How severe is the pain or discomfort on a scale from 1 to 10?","1부터 10까지의 척도로 통증 또는 불편함의 정도를 어떻게 평가하시겠습니까?",658,"gpt-4-turbo",NA,NA
+"거대신낭종","Details of the complaint","timing","Does the pain or discomfort occur at specific times or is it constant?","통증이나 불편함이 특정 시간에 발생하나요, 아니면 지속적입니까?",659,"gpt-4-turbo",NA,NA
+"거대신낭종","Review of systems","urinary system","Have you noticed changes in the color, frequency, or amount of your urine?","소변의 색, 빈도 또는 양에 변화가 있었습니까?",660,"gpt-4-turbo",NA,NA
+"거대신낭종","Review of systems","general health","Have you experienced recent weight loss or gain without trying?","노력하지 않고 최근에 체중이 감소하거나 증가한 적이 있습니까?",661,"gpt-4-turbo",NA,NA
+"거대신낭종","Review of systems","gastrointestinal","Have you had any nausea or vomiting?","메스꺼움이나 구토가 있었습니까?",662,"gpt-4-turbo",NA,NA
+"기타 정상임신의 관리, 임신 22주 이상 ~ 34주 미만","Medical history","Cervical Cancer Screening","When was your last Pap test for cervical cancer screening? What were the results?","자궁경부암 검사를 마지막으로 언제하셨나요? 결과는 어땠나요?",663,"신촌세브란스",1,"정윤빈 교수"
+"기타 정상임신의 관리, 임신 22주 이상 ~ 34주 미만","Medical history","Breast Ultrasound","Have you ever had a breast ultrasound? When was it done and what were the results?","유방 초음파를 촬영하신적이 있으신가요? 촬영 시점과 결과는 어땠나요?",664,"신촌세브란스",1,"정윤빈 교수"
+"기타 정상임신의 관리, 임신 22주 이상 ~ 34주 미만","Medical history","Menstrual Cycle Regularity","Is your menstrual cycle regular?","생리주기는 규칙적이신 편이었나요?",665,"신촌세브란스",1,"정윤빈 교수"
+"기타 정상임신의 관리, 임신 22주 이상 ~ 34주 미만","Medical history","Menstrual Cycle Duration","How long does your menstrual period usually last?","한번 생리를 할 때 기간은 어느정도인가요?",666,"신촌세브란스",1,"정윤빈 교수"
+"기타 정상임신의 관리, 임신 22주 이상 ~ 34주 미만","Medical history","Menstrual Flow Quantity","How heavy is your menstrual flow? Please describe it as usual, light, or heavy.","한번 생리를 할 때 양은 어느정도인가요? 보통, 적은 편, 많은 편과 같이 말씀주시면 됩니다.",667,"신촌세브란스",1,"정윤빈 교수"
+"기타 정상임신의 관리, 임신 22주 이상 ~ 34주 미만","Medical history","Menstrual Pain","Do you have severe menstrual cramps?","생리통은 심한 편인가요?",668,"신촌세브란스",1,"정윤빈 교수"
+"기타 정상임신의 관리, 임신 22주 이상 ~ 34주 미만","Medical history","Pregnancy History","Including the current pregnancy, how many times have you been pregnant?","출산과 상관 없이 현재 임신 포함 총 임신 수가 어떻게 되나요?",669,"신촌세브란스",1,"정윤빈 교수"
+"기타 정상임신의 관리, 임신 22주 이상 ~ 34주 미만","Medical history","Delivery History Post 20 Weeks","How many deliveries have you had after 20 weeks, regardless of the newborn's survival?","신생아의 생존유무와 상관 없이 20주 이후 분만 경험 수가 어떻게 되나요?",670,"신촌세브란스",1,"정윤빈 교수"
+"기타 정상임신의 관리, 임신 22주 이상 ~ 34주 미만","Medical history","Living Children from Birth","How many of your children born alive are still living?","출산하여 생존한 자녀의 수가 어떻게 되나요?",671,"신촌세브란스",1,"정윤빈 교수"
+"기타 정상임신의 관리, 임신 22주 이상 ~ 34주 미만","Medical history","Deceased Children from Birth","How many of your children born alive have passed away?","출산하여 사망한 자녀의 수가 어떻게 되나요?",672,"신촌세브란스",1,"정윤빈 교수"
+"기타 정상임신의 관리, 임신 22주 이상 ~ 34주 미만","Medical history","Early Pregnancy Loss or Low Birth Weight","How many times have you had a pregnancy loss before 20 weeks or delivered a baby weighing less than 500 grams?","임신 20주 이전 또는 신생아 몸무게가 500g 이하 출산의 수가 어떻게 되나요?",673,"신촌세브란스",1,"정윤빈 교수"
